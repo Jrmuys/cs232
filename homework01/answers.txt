@@ -1,0 +1,9 @@
+1. 1024
+2. reg0, reg1, reg2, pc
+3. takes src and dts, change the pc to destination if register is below zero
+4. It checks for interrupts when a program is run.
+5. Show memory from start to end
+6. Toggle debugging
+7. Yes for both
+8. l
+9. Yes

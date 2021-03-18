@@ -1,0 +1,37 @@
+1. Line 71 of claos.py, defines class PCB
+
+2. The pcb contains the name, the pid, the entry point, memory low, memory high, state, registers, and quantum
+
+3. The PCB is created in main.py on line 180 (when a program from the tape is read)
+
+4. NEW, READY, RUNNING, WAITING, DONE
+
+5. current_proc is the current processes PCB, it is initialized on line 7 of calos.py
+
+6. The timer controller code 'with' will automatically open and close the mutex lock to set
+    the countdown to eliminate race conditions and executes with high priority (critical section). 
+
+7. When the countdown reaches 0, the code takes the interrupt mutex to enter it's critical section,
+    adds the interrupt address, sets the cpu's interrupt to true and the exits the critical section
+    by releasing the mutex lock, then sets the countdown to not running and resets the countdown.
+
+
+
+test execution:
+    !
+    l 20 mult.asm
+    d 10
+    5
+    4
+    .
+    l 100 fib.asm
+    d 50
+    8
+    .
+    r
+    s 10 14
+    s 500 510
+    !
+    l 20 mult.asm
+    r
+    

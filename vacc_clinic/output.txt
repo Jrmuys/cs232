@@ -1,0 +1,2430 @@
+Wed Mar 17 22:25:36 2021: nurse 0 started 
+Wed Mar 17 22:25:36 2021: nurse 4 started 
+Wed Mar 17 22:25:36 2021: nurse 8 started 
+Wed Mar 17 22:25:36 2021: nurse 0 is walking to get a vial
+Wed Mar 17 22:25:36 2021: nurse 5 started 
+Wed Mar 17 22:25:36 2021: nurse 6 started 
+Wed Mar 17 22:25:36 2021: nurse 6 is walking to get a vial
+Wed Mar 17 22:25:36 2021: nurse 7 started 
+Wed Mar 17 22:25:36 2021: nurse 1 started 
+Wed Mar 17 22:25:36 2021: nurse 7 is walking to get a vial
+Wed Mar 17 22:25:36 2021: nurse 4 is walking to get a vial
+Wed Mar 17 22:25:36 2021: nurse 8 is walking to get a vial
+Wed Mar 17 22:25:36 2021: client 0 has arrived and is walking to register
+Wed Mar 17 22:25:36 2021: nurse 5 is walking to get a vial
+Wed Mar 17 22:25:36 2021: nurse 9 started 
+Wed Mar 17 22:25:36 2021: nurse 1 is walking to get a vial
+Wed Mar 17 22:25:36 2021: nurse 2 started 
+Wed Mar 17 22:25:36 2021: nurse 3 started 
+Wed Mar 17 22:25:36 2021: nurse 3 is walking to get a vial
+Wed Mar 17 22:25:36 2021: nurse 9 is walking to get a vial
+Wed Mar 17 22:25:36 2021: nurse 2 is walking to get a vial
+Wed Mar 17 22:25:37 2021: client 1 has arrived and is walking to register
+Wed Mar 17 22:25:37 2021: client 2 has arrived and is walking to register
+Wed Mar 17 22:25:38 2021: nurse 4 has obtained a vial
+Wed Mar 17 22:25:38 2021: nurse 2 has obtained a vial
+Wed Mar 17 22:25:38 2021: nurse 8 has obtained a vial
+Wed Mar 17 22:25:38 2021: nurse 1 has obtained a vial
+Wed Mar 17 22:25:38 2021: client 3 has arrived and is walking to register
+Wed Mar 17 22:25:38 2021: nurse 3 has obtained a vial
+Wed Mar 17 22:25:38 2021: nurse 6 has obtained a vial
+Wed Mar 17 22:25:38 2021: nurse 0 has obtained a vial
+Wed Mar 17 22:25:39 2021: client 4 has arrived and is walking to register
+Wed Mar 17 22:25:39 2021: nurse 9 has obtained a vial
+Wed Mar 17 22:25:39 2021: nurse 7 has obtained a vial
+Wed Mar 17 22:25:39 2021: nurse 5 has obtained a vial
+Wed Mar 17 22:25:39 2021: nurse 2 is ready to give shot 1 out of 6
+Wed Mar 17 22:25:39 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:25:39 2021: client 5 has arrived and is walking to register
+Wed Mar 17 22:25:40 2021: nurse 3 is ready to give shot 1 out of 6
+Wed Mar 17 22:25:40 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:25:40 2021: nurse 1 is ready to give shot 1 out of 6
+Wed Mar 17 22:25:40 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:25:40 2021: nurse 6 is ready to give shot 1 out of 6
+Wed Mar 17 22:25:40 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:25:40 2021: nurse 0 is ready to give shot 1 out of 6
+Wed Mar 17 22:25:40 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:25:40 2021: client 6 has arrived and is walking to register
+Wed Mar 17 22:25:40 2021: nurse 8 is ready to give shot 1 out of 6
+Wed Mar 17 22:25:40 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:25:40 2021: nurse 4 is ready to give shot 1 out of 6
+Wed Mar 17 22:25:40 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:25:40 2021: nurse 5 is ready to give shot 1 out of 6
+Wed Mar 17 22:25:40 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:25:41 2021: client 7 has arrived and is walking to register
+Wed Mar 17 22:25:41 2021: nurse 7 is ready to give shot 1 out of 6
+Wed Mar 17 22:25:41 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:25:42 2021: nurse 9 is ready to give shot 1 out of 6
+Wed Mar 17 22:25:42 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:25:42 2021: client 8 has arrived and is walking to register
+Wed Mar 17 22:25:42 2021: client 9 has arrived and is walking to register
+Wed Mar 17 22:25:42 2021: client 1 waiting to register
+Wed Mar 17 22:25:42 2021: client 1 is registering
+Wed Mar 17 22:25:43 2021: client 10 has arrived and is walking to register
+Wed Mar 17 22:25:43 2021: client 11 has arrived and is walking to register
+Wed Mar 17 22:25:43 2021: client 6 waiting to register
+Wed Mar 17 22:25:43 2021: client 6 is registering
+Wed Mar 17 22:25:44 2021: client 4 waiting to register
+Wed Mar 17 22:25:44 2021: client 4 is registering
+Wed Mar 17 22:25:44 2021: client 2 waiting to register
+Wed Mar 17 22:25:44 2021: client 2 is registering
+Wed Mar 17 22:25:44 2021: client 3 waiting to register
+Wed Mar 17 22:25:44 2021: client 12 has arrived and is walking to register
+Wed Mar 17 22:25:44 2021: client 13 has arrived and is walking to register
+Wed Mar 17 22:25:44 2021: client 14 has arrived and is walking to register
+Wed Mar 17 22:25:45 2021: client 15 has arrived and is walking to register
+Wed Mar 17 22:25:46 2021: client 8 waiting to register
+Wed Mar 17 22:25:46 2021: client 16 has arrived and is walking to register
+Wed Mar 17 22:25:46 2021: client 0 waiting to register
+Wed Mar 17 22:25:46 2021: client 7 waiting to register
+Wed Mar 17 22:25:47 2021: client 11 waiting to register
+Wed Mar 17 22:25:47 2021: client 1 is done registering and will walk to the registration queue
+Wed Mar 17 22:25:47 2021: client 3 is registering
+Wed Mar 17 22:25:47 2021: client 17 has arrived and is walking to register
+Wed Mar 17 22:25:47 2021: client 18 has arrived and is walking to register
+Wed Mar 17 22:25:48 2021: client 12 waiting to register
+Wed Mar 17 22:25:48 2021: client 19 has arrived and is walking to register
+Wed Mar 17 22:25:48 2021: client 20 has arrived and is walking to register
+Wed Mar 17 22:25:48 2021: client 21 has arrived and is walking to register
+Wed Mar 17 22:25:48 2021: client 6 is done registering and will walk to the registration queue
+Wed Mar 17 22:25:48 2021: client 8 is registering
+Wed Mar 17 22:25:49 2021: client 5 waiting to register
+Wed Mar 17 22:25:49 2021: client 22 has arrived and is walking to register
+Wed Mar 17 22:25:49 2021: client 23 has arrived and is walking to register
+Wed Mar 17 22:25:50 2021: client 24 has arrived and is walking to register
+Wed Mar 17 22:25:50 2021: client 3 is done registering and will walk to the registration queue
+Wed Mar 17 22:25:50 2021: client 0 is registering
+Wed Mar 17 22:25:50 2021: client 25 has arrived and is walking to register
+Wed Mar 17 22:25:50 2021: client 26 has arrived and is walking to register
+Wed Mar 17 22:25:51 2021: client 27 has arrived and is walking to register
+Wed Mar 17 22:25:51 2021: client 16 waiting to register
+Wed Mar 17 22:25:51 2021: client 15 waiting to register
+Wed Mar 17 22:25:51 2021: client 10 waiting to register
+Wed Mar 17 22:25:51 2021: client 1 got assigned to station 2
+Wed Mar 17 22:25:51 2021: client 28 has arrived and is walking to register
+Wed Mar 17 22:25:51 2021: client 9 waiting to register
+Wed Mar 17 22:25:51 2021: client 2 is done registering and will walk to the registration queue
+Wed Mar 17 22:25:51 2021: client 7 is registering
+Wed Mar 17 22:25:52 2021: client 29 has arrived and is walking to register
+Wed Mar 17 22:25:52 2021: client 13 waiting to register
+Wed Mar 17 22:25:52 2021: client 30 has arrived and is walking to register
+Wed Mar 17 22:25:52 2021: client 19 waiting to register
+Wed Mar 17 22:25:52 2021: client 6 got assigned to station 3
+Wed Mar 17 22:25:52 2021: client 31 has arrived and is walking to register
+Wed Mar 17 22:25:52 2021: client 14 waiting to register
+Wed Mar 17 22:25:52 2021: client 18 waiting to register
+Wed Mar 17 22:25:52 2021: client 32 has arrived and is walking to register
+Wed Mar 17 22:25:52 2021: client 1 has arrived at station 2 
+Wed Mar 17 22:25:52 2021: client 1 is ready to receive the vaccination 
+Wed Mar 17 22:25:52 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:25:53 2021: client 17 waiting to register
+Wed Mar 17 22:25:53 2021: client 4 is done registering and will walk to the registration queue
+Wed Mar 17 22:25:53 2021: client 11 is registering
+Wed Mar 17 22:25:53 2021: client 33 has arrived and is walking to register
+Wed Mar 17 22:25:53 2021: client 34 has arrived and is walking to register
+Wed Mar 17 22:25:53 2021: client 6 has arrived at station 3 
+Wed Mar 17 22:25:53 2021: client 6 is ready to receive the vaccination 
+Wed Mar 17 22:25:53 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:25:53 2021: client 25 waiting to register
+Wed Mar 17 22:25:53 2021: client 0 is done registering and will walk to the registration queue
+Wed Mar 17 22:25:53 2021: client 12 is registering
+Wed Mar 17 22:25:54 2021: client 35 has arrived and is walking to register
+Wed Mar 17 22:25:54 2021: client 24 waiting to register
+Wed Mar 17 22:25:54 2021: client 36 has arrived and is walking to register
+Wed Mar 17 22:25:55 2021: client 37 has arrived and is walking to register
+Wed Mar 17 22:25:55 2021: client 38 has arrived and is walking to register
+Wed Mar 17 22:25:55 2021: client 26 waiting to register
+Wed Mar 17 22:25:55 2021: client 28 waiting to register
+Wed Mar 17 22:25:55 2021: client 3 got assigned to station 1
+Wed Mar 17 22:25:56 2021: client 39 has arrived and is walking to register
+Wed Mar 17 22:25:56 2021: client 40 has arrived and is walking to register
+Wed Mar 17 22:25:56 2021: client 8 is done registering and will walk to the registration queue
+Wed Mar 17 22:25:56 2021: client 5 is registering
+Wed Mar 17 22:25:57 2021: client 0 got assigned to station 6
+Wed Mar 17 22:25:57 2021: client 41 has arrived and is walking to register
+Wed Mar 17 22:25:57 2021: client 42 has arrived and is walking to register
+Wed Mar 17 22:25:57 2021: client 23 waiting to register
+Wed Mar 17 22:25:57 2021: client 29 waiting to register
+Wed Mar 17 22:25:57 2021: client 34 waiting to register
+Wed Mar 17 22:25:57 2021: client 22 waiting to register
+Wed Mar 17 22:25:57 2021: client 43 has arrived and is walking to register
+Wed Mar 17 22:25:57 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:25:57 2021: client 1 has received the vaccination 
+Wed Mar 17 22:25:57 2021: client 1 leaves the clinic!
+Wed Mar 17 22:25:57 2021: nurse 2 is ready to give shot 2 out of 6
+Wed Mar 17 22:25:57 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:25:57 2021: client 3 has arrived at station 1 
+Wed Mar 17 22:25:57 2021: client 3 is ready to receive the vaccination 
+Wed Mar 17 22:25:57 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:25:58 2021: client 7 is done registering and will walk to the registration queue
+Wed Mar 17 22:25:58 2021: client 16 is registering
+Wed Mar 17 22:25:58 2021: client 33 waiting to register
+Wed Mar 17 22:25:58 2021: client 4 got assigned to station 0
+Wed Mar 17 22:25:58 2021: client 44 has arrived and is walking to register
+Wed Mar 17 22:25:58 2021: client 21 waiting to register
+Wed Mar 17 22:25:58 2021: client 45 has arrived and is walking to register
+Wed Mar 17 22:25:58 2021: client 20 waiting to register
+Wed Mar 17 22:25:58 2021: client 46 has arrived and is walking to register
+Wed Mar 17 22:25:58 2021: nurse 3 has given the vaccination to the client
+Wed Mar 17 22:25:58 2021: client 6 has received the vaccination 
+Wed Mar 17 22:25:58 2021: client 6 leaves the clinic!
+Wed Mar 17 22:25:58 2021: nurse 3 is ready to give shot 2 out of 6
+Wed Mar 17 22:25:58 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:25:59 2021: client 0 has arrived at station 6 
+Wed Mar 17 22:25:59 2021: client 0 is ready to receive the vaccination 
+Wed Mar 17 22:25:59 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:25:59 2021: client 47 has arrived and is walking to register
+Wed Mar 17 22:25:59 2021: client 48 has arrived and is walking to register
+Wed Mar 17 22:25:59 2021: client 49 has arrived and is walking to register
+Wed Mar 17 22:25:59 2021: client 11 is done registering and will walk to the registration queue
+Wed Mar 17 22:25:59 2021: client 15 is registering
+Wed Mar 17 22:25:59 2021: client 4 has arrived at station 0 
+Wed Mar 17 22:25:59 2021: client 4 is ready to receive the vaccination 
+Wed Mar 17 22:25:59 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:25:59 2021: client 32 waiting to register
+Wed Mar 17 22:26:00 2021: client 31 waiting to register
+Wed Mar 17 22:26:00 2021: client 27 waiting to register
+Wed Mar 17 22:26:00 2021: client 50 has arrived and is walking to register
+Wed Mar 17 22:26:01 2021: client 30 waiting to register
+Wed Mar 17 22:26:01 2021: client 35 waiting to register
+Wed Mar 17 22:26:01 2021: client 51 has arrived and is walking to register
+Wed Mar 17 22:26:01 2021: client 2 got assigned to station 8
+Wed Mar 17 22:26:02 2021: client 36 waiting to register
+Wed Mar 17 22:26:02 2021: client 12 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:02 2021: client 10 is registering
+Wed Mar 17 22:26:02 2021: client 52 has arrived and is walking to register
+Wed Mar 17 22:26:02 2021: client 8 got assigned to station 4
+Wed Mar 17 22:26:02 2021: client 40 waiting to register
+Wed Mar 17 22:26:02 2021: client 53 has arrived and is walking to register
+Wed Mar 17 22:26:02 2021: client 2 has arrived at station 8 
+Wed Mar 17 22:26:02 2021: client 2 is ready to receive the vaccination 
+Wed Mar 17 22:26:02 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:02 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:26:02 2021: nurse 1 is ready to give shot 2 out of 6
+Wed Mar 17 22:26:02 2021: client 3 has received the vaccination 
+Wed Mar 17 22:26:02 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:26:02 2021: client 3 leaves the clinic!
+Wed Mar 17 22:26:03 2021: client 37 waiting to register
+Wed Mar 17 22:26:03 2021: client 54 has arrived and is walking to register
+Wed Mar 17 22:26:04 2021: client 49 waiting to register
+Wed Mar 17 22:26:04 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:26:04 2021: client 0 has received the vaccination 
+Wed Mar 17 22:26:04 2021: client 0 leaves the clinic!
+Wed Mar 17 22:26:04 2021: nurse 6 is ready to give shot 2 out of 6
+Wed Mar 17 22:26:04 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:26:04 2021: client 55 has arrived and is walking to register
+Wed Mar 17 22:26:04 2021: client 8 has arrived at station 4 
+Wed Mar 17 22:26:04 2021: client 8 is ready to receive the vaccination 
+Wed Mar 17 22:26:04 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:04 2021: client 56 has arrived and is walking to register
+Wed Mar 17 22:26:04 2021: client 16 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:04 2021: client 9 is registering
+Wed Mar 17 22:26:04 2021: client 38 waiting to register
+Wed Mar 17 22:26:04 2021: client 7 got assigned to station 5
+Wed Mar 17 22:26:04 2021: client 39 waiting to register
+Wed Mar 17 22:26:04 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:26:04 2021: client 4 has received the vaccination 
+Wed Mar 17 22:26:04 2021: client 4 leaves the clinic!
+Wed Mar 17 22:26:04 2021: nurse 0 is ready to give shot 2 out of 6
+Wed Mar 17 22:26:04 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:26:04 2021: client 57 has arrived and is walking to register
+Wed Mar 17 22:26:04 2021: client 5 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:04 2021: client 13 is registering
+Wed Mar 17 22:26:05 2021: client 45 waiting to register
+Wed Mar 17 22:26:05 2021: client 7 has arrived at station 5 
+Wed Mar 17 22:26:05 2021: client 7 is ready to receive the vaccination 
+Wed Mar 17 22:26:05 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:05 2021: client 58 has arrived and is walking to register
+Wed Mar 17 22:26:05 2021: client 48 waiting to register
+Wed Mar 17 22:26:05 2021: client 59 has arrived and is walking to register
+Wed Mar 17 22:26:05 2021: client 42 waiting to register
+Wed Mar 17 22:26:06 2021: client 15 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:06 2021: client 19 is registering
+Wed Mar 17 22:26:06 2021: client 60 has arrived and is walking to register
+Wed Mar 17 22:26:06 2021: client 44 waiting to register
+Wed Mar 17 22:26:06 2021: client 61 has arrived and is walking to register
+Wed Mar 17 22:26:07 2021: client 41 waiting to register
+Wed Mar 17 22:26:07 2021: client 62 has arrived and is walking to register
+Wed Mar 17 22:26:07 2021: client 63 has arrived and is walking to register
+Wed Mar 17 22:26:07 2021: client 12 got assigned to station 7
+Wed Mar 17 22:26:07 2021: client 52 waiting to register
+Wed Mar 17 22:26:07 2021: nurse 8 has given the vaccination to the client
+Wed Mar 17 22:26:07 2021: client 2 has received the vaccination 
+Wed Mar 17 22:26:07 2021: client 2 leaves the clinic!
+Wed Mar 17 22:26:07 2021: nurse 8 is ready to give shot 2 out of 6
+Wed Mar 17 22:26:07 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:26:07 2021: client 56 waiting to register
+Wed Mar 17 22:26:07 2021: client 43 waiting to register
+Wed Mar 17 22:26:07 2021: client 47 waiting to register
+Wed Mar 17 22:26:07 2021: client 64 has arrived and is walking to register
+Wed Mar 17 22:26:07 2021: client 65 has arrived and is walking to register
+Wed Mar 17 22:26:08 2021: client 46 waiting to register
+Wed Mar 17 22:26:08 2021: client 51 waiting to register
+Wed Mar 17 22:26:08 2021: client 66 has arrived and is walking to register
+Wed Mar 17 22:26:08 2021: client 11 got assigned to station 9
+Wed Mar 17 22:26:08 2021: client 12 has arrived at station 7 
+Wed Mar 17 22:26:08 2021: client 12 is ready to receive the vaccination 
+Wed Mar 17 22:26:08 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:08 2021: client 54 waiting to register
+Wed Mar 17 22:26:09 2021: client 10 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:09 2021: client 14 is registering
+Wed Mar 17 22:26:09 2021: client 55 waiting to register
+Wed Mar 17 22:26:09 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:26:09 2021: nurse 4 is ready to give shot 2 out of 6
+Wed Mar 17 22:26:09 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:26:09 2021: client 8 has received the vaccination 
+Wed Mar 17 22:26:09 2021: client 8 leaves the clinic!
+Wed Mar 17 22:26:09 2021: client 67 has arrived and is walking to register
+Wed Mar 17 22:26:09 2021: client 15 got assigned to station 2
+Wed Mar 17 22:26:09 2021: client 13 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:09 2021: client 18 is registering
+Wed Mar 17 22:26:09 2021: client 53 waiting to register
+Wed Mar 17 22:26:09 2021: client 11 has arrived at station 9 
+Wed Mar 17 22:26:09 2021: client 11 is ready to receive the vaccination 
+Wed Mar 17 22:26:09 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:10 2021: client 50 waiting to register
+Wed Mar 17 22:26:10 2021: client 68 has arrived and is walking to register
+Wed Mar 17 22:26:10 2021: client 19 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:10 2021: client 17 is registering
+Wed Mar 17 22:26:10 2021: client 9 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:10 2021: client 25 is registering
+Wed Mar 17 22:26:10 2021: client 69 has arrived and is walking to register
+Wed Mar 17 22:26:10 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:26:10 2021: client 7 has received the vaccination 
+Wed Mar 17 22:26:10 2021: client 7 leaves the clinic!
+Wed Mar 17 22:26:10 2021: nurse 5 is ready to give shot 2 out of 6
+Wed Mar 17 22:26:10 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:26:10 2021: client 62 waiting to register
+Wed Mar 17 22:26:10 2021: client 15 has arrived at station 2 
+Wed Mar 17 22:26:10 2021: client 15 is ready to receive the vaccination 
+Wed Mar 17 22:26:10 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:10 2021: client 70 has arrived and is walking to register
+Wed Mar 17 22:26:10 2021: client 71 has arrived and is walking to register
+Wed Mar 17 22:26:11 2021: client 59 waiting to register
+Wed Mar 17 22:26:11 2021: client 72 has arrived and is walking to register
+Wed Mar 17 22:26:11 2021: client 73 has arrived and is walking to register
+Wed Mar 17 22:26:11 2021: client 74 has arrived and is walking to register
+Wed Mar 17 22:26:11 2021: client 5 got assigned to station 3
+Wed Mar 17 22:26:12 2021: client 10 got assigned to station 1
+Wed Mar 17 22:26:12 2021: client 66 waiting to register
+Wed Mar 17 22:26:12 2021: client 75 has arrived and is walking to register
+Wed Mar 17 22:26:12 2021: client 60 waiting to register
+Wed Mar 17 22:26:12 2021: client 76 has arrived and is walking to register
+Wed Mar 17 22:26:13 2021: client 5 has arrived at station 3 
+Wed Mar 17 22:26:13 2021: client 5 is ready to receive the vaccination 
+Wed Mar 17 22:26:13 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:13 2021: client 77 has arrived and is walking to register
+Wed Mar 17 22:26:13 2021: client 57 waiting to register
+Wed Mar 17 22:26:13 2021: client 16 got assigned to station 6
+Wed Mar 17 22:26:13 2021: client 69 waiting to register
+Wed Mar 17 22:26:13 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:26:13 2021: client 12 has received the vaccination 
+Wed Mar 17 22:26:13 2021: nurse 7 is ready to give shot 2 out of 6
+Wed Mar 17 22:26:13 2021: client 12 leaves the clinic!
+Wed Mar 17 22:26:13 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:26:13 2021: client 10 has arrived at station 1 
+Wed Mar 17 22:26:13 2021: client 10 is ready to receive the vaccination 
+Wed Mar 17 22:26:13 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:13 2021: client 78 has arrived and is walking to register
+Wed Mar 17 22:26:14 2021: client 16 has arrived at station 6 
+Wed Mar 17 22:26:14 2021: client 16 is ready to receive the vaccination 
+Wed Mar 17 22:26:14 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:14 2021: client 63 waiting to register
+Wed Mar 17 22:26:14 2021: client 79 has arrived and is walking to register
+Wed Mar 17 22:26:14 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:26:14 2021: nurse 9 is ready to give shot 2 out of 6
+Wed Mar 17 22:26:14 2021: client 11 has received the vaccination 
+Wed Mar 17 22:26:14 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:26:14 2021: client 11 leaves the clinic!
+Wed Mar 17 22:26:14 2021: client 61 waiting to register
+Wed Mar 17 22:26:15 2021: client 58 waiting to register
+Wed Mar 17 22:26:15 2021: client 18 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:15 2021: client 24 is registering
+Wed Mar 17 22:26:15 2021: client 14 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:15 2021: client 26 is registering
+Wed Mar 17 22:26:15 2021: client 80 has arrived and is walking to register
+Wed Mar 17 22:26:15 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:26:15 2021: client 15 has received the vaccination 
+Wed Mar 17 22:26:15 2021: client 15 leaves the clinic!
+Wed Mar 17 22:26:15 2021: nurse 2 is ready to give shot 3 out of 6
+Wed Mar 17 22:26:15 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:26:15 2021: client 81 has arrived and is walking to register
+Wed Mar 17 22:26:15 2021: client 70 waiting to register
+Wed Mar 17 22:26:16 2021: client 76 waiting to register
+Wed Mar 17 22:26:16 2021: client 65 waiting to register
+Wed Mar 17 22:26:16 2021: client 19 got assigned to station 0
+Wed Mar 17 22:26:16 2021: client 64 waiting to register
+Wed Mar 17 22:26:16 2021: client 82 has arrived and is walking to register
+Wed Mar 17 22:26:16 2021: client 68 waiting to register
+Wed Mar 17 22:26:16 2021: client 83 has arrived and is walking to register
+Wed Mar 17 22:26:16 2021: client 75 waiting to register
+Wed Mar 17 22:26:17 2021: client 84 has arrived and is walking to register
+Wed Mar 17 22:26:17 2021: client 9 got assigned to station 8
+Wed Mar 17 22:26:17 2021: client 74 waiting to register
+Wed Mar 17 22:26:17 2021: client 19 has arrived at station 0 
+Wed Mar 17 22:26:17 2021: client 19 is ready to receive the vaccination 
+Wed Mar 17 22:26:17 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:17 2021: client 25 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:17 2021: client 28 is registering
+Wed Mar 17 22:26:17 2021: client 85 has arrived and is walking to register
+Wed Mar 17 22:26:17 2021: client 17 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:17 2021: client 23 is registering
+Wed Mar 17 22:26:18 2021: client 72 waiting to register
+Wed Mar 17 22:26:18 2021: nurse 3 has given the vaccination to the client
+Wed Mar 17 22:26:18 2021: client 5 has received the vaccination 
+Wed Mar 17 22:26:18 2021: client 5 leaves the clinic!
+Wed Mar 17 22:26:18 2021: nurse 3 is ready to give shot 3 out of 6
+Wed Mar 17 22:26:18 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:26:18 2021: client 86 has arrived and is walking to register
+Wed Mar 17 22:26:18 2021: client 13 got assigned to station 4
+Wed Mar 17 22:26:18 2021: client 24 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:18 2021: client 29 is registering
+Wed Mar 17 22:26:18 2021: client 87 has arrived and is walking to register
+Wed Mar 17 22:26:18 2021: client 67 waiting to register
+Wed Mar 17 22:26:18 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:26:18 2021: client 10 has received the vaccination 
+Wed Mar 17 22:26:18 2021: nurse 1 is ready to give shot 3 out of 6
+Wed Mar 17 22:26:18 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:26:18 2021: client 10 leaves the clinic!
+Wed Mar 17 22:26:18 2021: client 9 has arrived at station 8 
+Wed Mar 17 22:26:18 2021: client 9 is ready to receive the vaccination 
+Wed Mar 17 22:26:18 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:18 2021: client 88 has arrived and is walking to register
+Wed Mar 17 22:26:19 2021: client 18 got assigned to station 5
+Wed Mar 17 22:26:19 2021: client 89 has arrived and is walking to register
+Wed Mar 17 22:26:19 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:26:19 2021: client 16 has received the vaccination 
+Wed Mar 17 22:26:19 2021: client 16 leaves the clinic!
+Wed Mar 17 22:26:19 2021: nurse 6 is ready to give shot 3 out of 6
+Wed Mar 17 22:26:19 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:26:19 2021: client 73 waiting to register
+Wed Mar 17 22:26:19 2021: client 90 has arrived and is walking to register
+Wed Mar 17 22:26:19 2021: client 13 has arrived at station 4 
+Wed Mar 17 22:26:19 2021: client 13 is ready to receive the vaccination 
+Wed Mar 17 22:26:19 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:20 2021: client 18 has arrived at station 5 
+Wed Mar 17 22:26:20 2021: client 18 is ready to receive the vaccination 
+Wed Mar 17 22:26:20 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:20 2021: client 91 has arrived and is walking to register
+Wed Mar 17 22:26:20 2021: client 81 waiting to register
+Wed Mar 17 22:26:20 2021: client 71 waiting to register
+Wed Mar 17 22:26:21 2021: client 26 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:21 2021: client 34 is registering
+Wed Mar 17 22:26:21 2021: client 77 waiting to register
+Wed Mar 17 22:26:21 2021: client 80 waiting to register
+Wed Mar 17 22:26:21 2021: client 92 has arrived and is walking to register
+Wed Mar 17 22:26:21 2021: client 93 has arrived and is walking to register
+Wed Mar 17 22:26:21 2021: client 86 waiting to register
+Wed Mar 17 22:26:22 2021: client 24 got assigned to station 7
+Wed Mar 17 22:26:22 2021: client 89 waiting to register
+Wed Mar 17 22:26:22 2021: client 94 has arrived and is walking to register
+Wed Mar 17 22:26:22 2021: client 79 waiting to register
+Wed Mar 17 22:26:22 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:26:22 2021: client 19 has received the vaccination 
+Wed Mar 17 22:26:22 2021: client 19 leaves the clinic!
+Wed Mar 17 22:26:22 2021: nurse 0 is ready to give shot 3 out of 6
+Wed Mar 17 22:26:22 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:26:22 2021: client 78 waiting to register
+Wed Mar 17 22:26:22 2021: client 14 got assigned to station 9
+Wed Mar 17 22:26:22 2021: client 25 got assigned to station 2
+Wed Mar 17 22:26:23 2021: client 95 has arrived and is walking to register
+Wed Mar 17 22:26:23 2021: client 83 waiting to register
+Wed Mar 17 22:26:23 2021: client 96 has arrived and is walking to register
+Wed Mar 17 22:26:23 2021: nurse 8 has given the vaccination to the client
+Wed Mar 17 22:26:23 2021: client 9 has received the vaccination 
+Wed Mar 17 22:26:23 2021: nurse 8 is ready to give shot 3 out of 6
+Wed Mar 17 22:26:23 2021: client 9 leaves the clinic!
+Wed Mar 17 22:26:23 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:26:23 2021: client 87 waiting to register
+Wed Mar 17 22:26:23 2021: client 24 has arrived at station 7 
+Wed Mar 17 22:26:23 2021: client 24 is ready to receive the vaccination 
+Wed Mar 17 22:26:23 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:24 2021: client 14 has arrived at station 9 
+Wed Mar 17 22:26:24 2021: client 14 is ready to receive the vaccination 
+Wed Mar 17 22:26:24 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:24 2021: client 34 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:24 2021: client 22 is registering
+Wed Mar 17 22:26:24 2021: client 25 has arrived at station 2 
+Wed Mar 17 22:26:24 2021: client 25 is ready to receive the vaccination 
+Wed Mar 17 22:26:24 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:24 2021: client 97 has arrived and is walking to register
+Wed Mar 17 22:26:24 2021: client 88 waiting to register
+Wed Mar 17 22:26:24 2021: client 17 got assigned to station 3
+Wed Mar 17 22:26:24 2021: client 85 waiting to register
+Wed Mar 17 22:26:24 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:26:24 2021: nurse 4 is ready to give shot 3 out of 6
+Wed Mar 17 22:26:24 2021: client 13 has received the vaccination 
+Wed Mar 17 22:26:24 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:26:24 2021: client 13 leaves the clinic!
+Wed Mar 17 22:26:25 2021: client 82 waiting to register
+Wed Mar 17 22:26:25 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:26:25 2021: nurse 5 is ready to give shot 3 out of 6
+Wed Mar 17 22:26:25 2021: client 18 has received the vaccination 
+Wed Mar 17 22:26:25 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:26:25 2021: client 18 leaves the clinic!
+Wed Mar 17 22:26:25 2021: client 91 waiting to register
+Wed Mar 17 22:26:25 2021: client 98 has arrived and is walking to register
+Wed Mar 17 22:26:25 2021: client 84 waiting to register
+Wed Mar 17 22:26:25 2021: client 99 has arrived and is walking to register
+Wed Mar 17 22:26:25 2021: client 17 has arrived at station 3 
+Wed Mar 17 22:26:25 2021: client 17 is ready to receive the vaccination 
+Wed Mar 17 22:26:25 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:26 2021: client 100 has arrived and is walking to register
+Wed Mar 17 22:26:26 2021: client 23 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:26 2021: client 33 is registering
+Wed Mar 17 22:26:26 2021: client 101 has arrived and is walking to register
+Wed Mar 17 22:26:26 2021: client 28 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:26 2021: client 21 is registering
+Wed Mar 17 22:26:27 2021: client 102 has arrived and is walking to register
+Wed Mar 17 22:26:27 2021: client 90 waiting to register
+Wed Mar 17 22:26:27 2021: client 103 has arrived and is walking to register
+Wed Mar 17 22:26:27 2021: client 29 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:27 2021: client 20 is registering
+Wed Mar 17 22:26:27 2021: client 96 waiting to register
+Wed Mar 17 22:26:28 2021: client 97 waiting to register
+Wed Mar 17 22:26:28 2021: client 26 got assigned to station 1
+Wed Mar 17 22:26:28 2021: client 104 has arrived and is walking to register
+Wed Mar 17 22:26:28 2021: client 92 waiting to register
+Wed Mar 17 22:26:28 2021: client 93 waiting to register
+Wed Mar 17 22:26:28 2021: client 105 has arrived and is walking to register
+Wed Mar 17 22:26:28 2021: client 106 has arrived and is walking to register
+Wed Mar 17 22:26:28 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:26:28 2021: client 24 has received the vaccination 
+Wed Mar 17 22:26:28 2021: nurse 7 is ready to give shot 3 out of 6
+Wed Mar 17 22:26:28 2021: client 24 leaves the clinic!
+Wed Mar 17 22:26:28 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:26:29 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:26:29 2021: client 14 has received the vaccination 
+Wed Mar 17 22:26:29 2021: nurse 9 is ready to give shot 3 out of 6
+Wed Mar 17 22:26:29 2021: client 14 leaves the clinic!
+Wed Mar 17 22:26:29 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:26:29 2021: client 100 waiting to register
+Wed Mar 17 22:26:29 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:26:29 2021: client 25 has received the vaccination 
+Wed Mar 17 22:26:29 2021: client 25 leaves the clinic!
+Wed Mar 17 22:26:29 2021: nurse 2 is ready to give shot 4 out of 6
+Wed Mar 17 22:26:29 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:26:29 2021: client 26 has arrived at station 1 
+Wed Mar 17 22:26:29 2021: client 26 is ready to receive the vaccination 
+Wed Mar 17 22:26:29 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:29 2021: client 107 has arrived and is walking to register
+Wed Mar 17 22:26:30 2021: client 23 got assigned to station 6
+Wed Mar 17 22:26:30 2021: client 21 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:30 2021: client 32 is registering
+Wed Mar 17 22:26:30 2021: client 99 waiting to register
+Wed Mar 17 22:26:30 2021: client 102 waiting to register
+Wed Mar 17 22:26:30 2021: nurse 3 has given the vaccination to the client
+Wed Mar 17 22:26:30 2021: client 17 has received the vaccination 
+Wed Mar 17 22:26:30 2021: client 17 leaves the clinic!
+Wed Mar 17 22:26:30 2021: nurse 3 is ready to give shot 4 out of 6
+Wed Mar 17 22:26:30 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:26:30 2021: client 108 has arrived and is walking to register
+Wed Mar 17 22:26:30 2021: client 98 waiting to register
+Wed Mar 17 22:26:31 2021: client 22 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:31 2021: client 31 is registering
+Wed Mar 17 22:26:31 2021: client 109 has arrived and is walking to register
+Wed Mar 17 22:26:31 2021: client 33 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:31 2021: client 27 is registering
+Wed Mar 17 22:26:31 2021: client 23 has arrived at station 6 
+Wed Mar 17 22:26:31 2021: client 23 is ready to receive the vaccination 
+Wed Mar 17 22:26:31 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:31 2021: client 110 has arrived and is walking to register
+Wed Mar 17 22:26:31 2021: client 104 waiting to register
+Wed Mar 17 22:26:31 2021: client 111 has arrived and is walking to register
+Wed Mar 17 22:26:31 2021: client 34 got assigned to station 0
+Wed Mar 17 22:26:32 2021: client 94 waiting to register
+Wed Mar 17 22:26:32 2021: client 103 waiting to register
+Wed Mar 17 22:26:32 2021: client 112 has arrived and is walking to register
+Wed Mar 17 22:26:32 2021: client 95 waiting to register
+Wed Mar 17 22:26:32 2021: client 113 has arrived and is walking to register
+Wed Mar 17 22:26:32 2021: client 114 has arrived and is walking to register
+Wed Mar 17 22:26:32 2021: client 115 has arrived and is walking to register
+Wed Mar 17 22:26:32 2021: client 105 waiting to register
+Wed Mar 17 22:26:32 2021: client 106 waiting to register
+Wed Mar 17 22:26:33 2021: client 34 has arrived at station 0 
+Wed Mar 17 22:26:33 2021: client 34 is ready to receive the vaccination 
+Wed Mar 17 22:26:33 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:33 2021: client 101 waiting to register
+Wed Mar 17 22:26:33 2021: client 116 has arrived and is walking to register
+Wed Mar 17 22:26:33 2021: client 117 has arrived and is walking to register
+Wed Mar 17 22:26:33 2021: client 20 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:33 2021: client 30 is registering
+Wed Mar 17 22:26:34 2021: client 32 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:34 2021: client 35 is registering
+Wed Mar 17 22:26:34 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:26:34 2021: nurse 1 is ready to give shot 4 out of 6
+Wed Mar 17 22:26:34 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:26:34 2021: client 26 has received the vaccination 
+Wed Mar 17 22:26:34 2021: client 26 leaves the clinic!
+Wed Mar 17 22:26:34 2021: client 118 has arrived and is walking to register
+Wed Mar 17 22:26:34 2021: client 21 got assigned to station 8
+Wed Mar 17 22:26:34 2021: client 108 waiting to register
+Wed Mar 17 22:26:35 2021: client 29 got assigned to station 4
+Wed Mar 17 22:26:35 2021: client 31 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:35 2021: client 36 is registering
+Wed Mar 17 22:26:35 2021: client 119 has arrived and is walking to register
+Wed Mar 17 22:26:35 2021: client 28 got assigned to station 5
+Wed Mar 17 22:26:35 2021: client 27 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:35 2021: client 40 is registering
+Wed Mar 17 22:26:35 2021: client 120 has arrived and is walking to register
+Wed Mar 17 22:26:35 2021: client 112 waiting to register
+Wed Mar 17 22:26:36 2021: client 33 got assigned to station 7
+Wed Mar 17 22:26:36 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:26:36 2021: client 23 has received the vaccination 
+Wed Mar 17 22:26:36 2021: client 23 leaves the clinic!
+Wed Mar 17 22:26:36 2021: nurse 6 is ready to give shot 4 out of 6
+Wed Mar 17 22:26:36 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:26:36 2021: client 110 waiting to register
+Wed Mar 17 22:26:36 2021: client 114 waiting to register
+Wed Mar 17 22:26:36 2021: client 121 has arrived and is walking to register
+Wed Mar 17 22:26:36 2021: client 22 got assigned to station 9
+Wed Mar 17 22:26:36 2021: client 29 has arrived at station 4 
+Wed Mar 17 22:26:36 2021: client 29 is ready to receive the vaccination 
+Wed Mar 17 22:26:36 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:36 2021: client 21 has arrived at station 8 
+Wed Mar 17 22:26:36 2021: client 21 is ready to receive the vaccination 
+Wed Mar 17 22:26:36 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:36 2021: client 122 has arrived and is walking to register
+Wed Mar 17 22:26:36 2021: client 123 has arrived and is walking to register
+Wed Mar 17 22:26:37 2021: client 109 waiting to register
+Wed Mar 17 22:26:37 2021: client 107 waiting to register
+Wed Mar 17 22:26:37 2021: client 33 has arrived at station 7 
+Wed Mar 17 22:26:37 2021: client 33 is ready to receive the vaccination 
+Wed Mar 17 22:26:37 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:37 2021: client 28 has arrived at station 5 
+Wed Mar 17 22:26:37 2021: client 28 is ready to receive the vaccination 
+Wed Mar 17 22:26:37 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:37 2021: client 115 waiting to register
+Wed Mar 17 22:26:37 2021: client 124 has arrived and is walking to register
+Wed Mar 17 22:26:38 2021: client 22 has arrived at station 9 
+Wed Mar 17 22:26:38 2021: client 22 is ready to receive the vaccination 
+Wed Mar 17 22:26:38 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:38 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:26:38 2021: client 34 has received the vaccination 
+Wed Mar 17 22:26:38 2021: nurse 0 is ready to give shot 4 out of 6
+Wed Mar 17 22:26:38 2021: client 34 leaves the clinic!
+Wed Mar 17 22:26:38 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:26:38 2021: client 113 waiting to register
+Wed Mar 17 22:26:38 2021: client 125 has arrived and is walking to register
+Wed Mar 17 22:26:38 2021: client 30 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:38 2021: client 37 is registering
+Wed Mar 17 22:26:38 2021: client 20 got assigned to station 2
+Wed Mar 17 22:26:38 2021: client 126 has arrived and is walking to register
+Wed Mar 17 22:26:39 2021: client 118 waiting to register
+Wed Mar 17 22:26:39 2021: client 127 has arrived and is walking to register
+Wed Mar 17 22:26:39 2021: client 31 got assigned to station 3
+Wed Mar 17 22:26:39 2021: client 117 waiting to register
+Wed Mar 17 22:26:40 2021: client 35 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:40 2021: client 49 is registering
+Wed Mar 17 22:26:40 2021: client 128 has arrived and is walking to register
+Wed Mar 17 22:26:40 2021: client 27 got assigned to station 1
+Wed Mar 17 22:26:40 2021: client 123 waiting to register
+Wed Mar 17 22:26:40 2021: client 122 waiting to register
+Wed Mar 17 22:26:40 2021: client 120 waiting to register
+Wed Mar 17 22:26:40 2021: client 20 has arrived at station 2 
+Wed Mar 17 22:26:40 2021: client 20 is ready to receive the vaccination 
+Wed Mar 17 22:26:40 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:40 2021: client 129 has arrived and is walking to register
+Wed Mar 17 22:26:40 2021: client 111 waiting to register
+Wed Mar 17 22:26:40 2021: client 116 waiting to register
+Wed Mar 17 22:26:40 2021: client 31 has arrived at station 3 
+Wed Mar 17 22:26:40 2021: client 31 is ready to receive the vaccination 
+Wed Mar 17 22:26:40 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:41 2021: client 124 waiting to register
+Wed Mar 17 22:26:41 2021: client 130 has arrived and is walking to register
+Wed Mar 17 22:26:41 2021: client 30 got assigned to station 6
+Wed Mar 17 22:26:41 2021: client 119 waiting to register
+Wed Mar 17 22:26:41 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:26:41 2021: nurse 4 is ready to give shot 4 out of 6
+Wed Mar 17 22:26:41 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:26:41 2021: client 29 has received the vaccination 
+Wed Mar 17 22:26:41 2021: client 29 leaves the clinic!
+Wed Mar 17 22:26:41 2021: nurse 8 has given the vaccination to the client
+Wed Mar 17 22:26:41 2021: nurse 8 is ready to give shot 4 out of 6
+Wed Mar 17 22:26:41 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:26:41 2021: client 21 has received the vaccination 
+Wed Mar 17 22:26:41 2021: client 21 leaves the clinic!
+Wed Mar 17 22:26:41 2021: client 131 has arrived and is walking to register
+Wed Mar 17 22:26:41 2021: client 27 has arrived at station 1 
+Wed Mar 17 22:26:41 2021: client 27 is ready to receive the vaccination 
+Wed Mar 17 22:26:41 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:42 2021: client 125 waiting to register
+Wed Mar 17 22:26:42 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:26:42 2021: client 33 has received the vaccination 
+Wed Mar 17 22:26:42 2021: client 33 leaves the clinic!
+Wed Mar 17 22:26:42 2021: nurse 7 is ready to give shot 4 out of 6
+Wed Mar 17 22:26:42 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:26:42 2021: client 36 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:42 2021: client 38 is registering
+Wed Mar 17 22:26:42 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:26:42 2021: client 28 has received the vaccination 
+Wed Mar 17 22:26:42 2021: client 28 leaves the clinic!
+Wed Mar 17 22:26:42 2021: nurse 5 is ready to give shot 4 out of 6
+Wed Mar 17 22:26:42 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:26:42 2021: client 132 has arrived and is walking to register
+Wed Mar 17 22:26:42 2021: client 37 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:42 2021: client 39 is registering
+Wed Mar 17 22:26:43 2021: client 126 waiting to register
+Wed Mar 17 22:26:43 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:26:43 2021: nurse 9 is ready to give shot 4 out of 6
+Wed Mar 17 22:26:43 2021: client 22 has received the vaccination 
+Wed Mar 17 22:26:43 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:26:43 2021: client 22 leaves the clinic!
+Wed Mar 17 22:26:43 2021: client 133 has arrived and is walking to register
+Wed Mar 17 22:26:43 2021: client 121 waiting to register
+Wed Mar 17 22:26:43 2021: client 30 has arrived at station 6 
+Wed Mar 17 22:26:43 2021: client 30 is ready to receive the vaccination 
+Wed Mar 17 22:26:43 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:43 2021: client 32 got assigned to station 0
+Wed Mar 17 22:26:43 2021: client 129 waiting to register
+Wed Mar 17 22:26:44 2021: client 134 has arrived and is walking to register
+Wed Mar 17 22:26:44 2021: client 32 has arrived at station 0 
+Wed Mar 17 22:26:44 2021: client 32 is ready to receive the vaccination 
+Wed Mar 17 22:26:44 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:45 2021: client 135 has arrived and is walking to register
+Wed Mar 17 22:26:45 2021: client 136 has arrived and is walking to register
+Wed Mar 17 22:26:45 2021: client 49 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:45 2021: client 45 is registering
+Wed Mar 17 22:26:45 2021: client 35 got assigned to station 4
+Wed Mar 17 22:26:45 2021: client 40 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:45 2021: client 48 is registering
+Wed Mar 17 22:26:45 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:26:45 2021: nurse 2 is ready to give shot 5 out of 6
+Wed Mar 17 22:26:45 2021: client 20 has received the vaccination 
+Wed Mar 17 22:26:45 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:26:45 2021: client 20 leaves the clinic!
+Wed Mar 17 22:26:45 2021: client 137 has arrived and is walking to register
+Wed Mar 17 22:26:45 2021: nurse 3 has given the vaccination to the client
+Wed Mar 17 22:26:45 2021: client 31 has received the vaccination 
+Wed Mar 17 22:26:45 2021: nurse 3 is ready to give shot 5 out of 6
+Wed Mar 17 22:26:45 2021: client 31 leaves the clinic!
+Wed Mar 17 22:26:45 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:26:46 2021: client 138 has arrived and is walking to register
+Wed Mar 17 22:26:46 2021: client 35 has arrived at station 4 
+Wed Mar 17 22:26:46 2021: client 35 is ready to receive the vaccination 
+Wed Mar 17 22:26:46 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:46 2021: client 128 waiting to register
+Wed Mar 17 22:26:46 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:26:46 2021: nurse 1 is ready to give shot 5 out of 6
+Wed Mar 17 22:26:46 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:26:46 2021: client 27 has received the vaccination 
+Wed Mar 17 22:26:46 2021: client 27 leaves the clinic!
+Wed Mar 17 22:26:46 2021: client 139 has arrived and is walking to register
+Wed Mar 17 22:26:47 2021: client 132 waiting to register
+Wed Mar 17 22:26:47 2021: client 134 waiting to register
+Wed Mar 17 22:26:47 2021: client 140 has arrived and is walking to register
+Wed Mar 17 22:26:47 2021: client 141 has arrived and is walking to register
+Wed Mar 17 22:26:48 2021: client 127 waiting to register
+Wed Mar 17 22:26:48 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:26:48 2021: client 30 has received the vaccination 
+Wed Mar 17 22:26:48 2021: nurse 6 is ready to give shot 5 out of 6
+Wed Mar 17 22:26:48 2021: client 30 leaves the clinic!
+Wed Mar 17 22:26:48 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:26:48 2021: client 142 has arrived and is walking to register
+Wed Mar 17 22:26:48 2021: client 143 has arrived and is walking to register
+Wed Mar 17 22:26:48 2021: client 38 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:48 2021: client 42 is registering
+Wed Mar 17 22:26:49 2021: client 40 got assigned to station 8
+Wed Mar 17 22:26:49 2021: client 130 waiting to register
+Wed Mar 17 22:26:49 2021: client 144 has arrived and is walking to register
+Wed Mar 17 22:26:49 2021: client 45 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:49 2021: client 44 is registering
+Wed Mar 17 22:26:49 2021: client 37 got assigned to station 7
+Wed Mar 17 22:26:49 2021: client 39 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:49 2021: client 41 is registering
+Wed Mar 17 22:26:49 2021: client 138 waiting to register
+Wed Mar 17 22:26:49 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:26:49 2021: nurse 0 is ready to give shot 5 out of 6
+Wed Mar 17 22:26:49 2021: client 32 has received the vaccination 
+Wed Mar 17 22:26:49 2021: client 32 leaves the clinic!
+Wed Mar 17 22:26:49 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:26:50 2021: client 145 has arrived and is walking to register
+Wed Mar 17 22:26:50 2021: client 40 has arrived at station 8 
+Wed Mar 17 22:26:50 2021: client 40 is ready to receive the vaccination 
+Wed Mar 17 22:26:50 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:50 2021: client 146 has arrived and is walking to register
+Wed Mar 17 22:26:50 2021: client 49 got assigned to station 5
+Wed Mar 17 22:26:50 2021: client 36 got assigned to station 9
+Wed Mar 17 22:26:50 2021: client 147 has arrived and is walking to register
+Wed Mar 17 22:26:50 2021: client 137 waiting to register
+Wed Mar 17 22:26:51 2021: client 48 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:51 2021: client 52 is registering
+Wed Mar 17 22:26:51 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:26:51 2021: nurse 4 is ready to give shot 5 out of 6
+Wed Mar 17 22:26:51 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:26:51 2021: client 35 has received the vaccination 
+Wed Mar 17 22:26:51 2021: client 35 leaves the clinic!
+Wed Mar 17 22:26:51 2021: client 37 has arrived at station 7 
+Wed Mar 17 22:26:51 2021: client 37 is ready to receive the vaccination 
+Wed Mar 17 22:26:51 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:51 2021: client 131 waiting to register
+Wed Mar 17 22:26:51 2021: client 148 has arrived and is walking to register
+Wed Mar 17 22:26:51 2021: client 140 waiting to register
+Wed Mar 17 22:26:51 2021: client 149 has arrived and is walking to register
+Wed Mar 17 22:26:52 2021: client 36 has arrived at station 9 
+Wed Mar 17 22:26:52 2021: client 36 is ready to receive the vaccination 
+Wed Mar 17 22:26:52 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:52 2021: client 150 has arrived and is walking to register
+Wed Mar 17 22:26:52 2021: client 133 waiting to register
+Wed Mar 17 22:26:52 2021: client 49 has arrived at station 5 
+Wed Mar 17 22:26:52 2021: client 49 is ready to receive the vaccination 
+Wed Mar 17 22:26:52 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:52 2021: client 136 waiting to register
+Wed Mar 17 22:26:53 2021: client 151 has arrived and is walking to register
+Wed Mar 17 22:26:53 2021: client 42 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:53 2021: client 56 is registering
+Wed Mar 17 22:26:53 2021: client 152 has arrived and is walking to register
+Wed Mar 17 22:26:54 2021: client 135 waiting to register
+Wed Mar 17 22:26:54 2021: client 153 has arrived and is walking to register
+Wed Mar 17 22:26:54 2021: client 139 waiting to register
+Wed Mar 17 22:26:54 2021: client 147 waiting to register
+Wed Mar 17 22:26:54 2021: client 52 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:54 2021: client 43 is registering
+Wed Mar 17 22:26:55 2021: client 141 waiting to register
+Wed Mar 17 22:26:55 2021: nurse 8 has given the vaccination to the client
+ ed Mar 17 22:26:55 2021: client 40 has received the vaccination 
+Wed Mar 17 22:26:55 2021: client 40 leaves the clinic!
+Wed Mar 17 22:26:55 2021: nurse 8 is ready to give shot 5 out of 6
+Wed Mar 17 22:26:55 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:26:55 2021: client 154 has arrived and is walking to register
+Wed Mar 17 22:26:55 2021: client 149 waiting to register
+Wed Mar 17 22:26:56 2021: client 148 waiting to register
+Wed Mar 17 22:26:56 2021: client 155 has arrived and is walking to register
+Wed Mar 17 22:26:56 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:26:56 2021: client 37 has received the vaccination 
+Wed Mar 17 22:26:56 2021: client 37 leaves the clinic!
+Wed Mar 17 22:26:56 2021: nurse 7 is ready to give shot 5 out of 6
+Wed Mar 17 22:26:56 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:26:56 2021: client 156 has arrived and is walking to register
+Wed Mar 17 22:26:56 2021: client 150 waiting to register
+Wed Mar 17 22:26:56 2021: client 38 got assigned to station 2
+Wed Mar 17 22:26:56 2021: client 157 has arrived and is walking to register
+Wed Mar 17 22:26:57 2021: client 44 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:57 2021: client 47 is registering
+Wed Mar 17 22:26:57 2021: client 158 has arrived and is walking to register
+Wed Mar 17 22:26:57 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:26:57 2021: nurse 9 is ready to give shot 5 out of 6
+Wed Mar 17 22:26:57 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:26:57 2021: client 36 has received the vaccination 
+Wed Mar 17 22:26:57 2021: client 36 leaves the clinic!
+Wed Mar 17 22:26:57 2021: client 145 waiting to register
+Wed Mar 17 22:26:57 2021: client 159 has arrived and is walking to register
+Wed Mar 17 22:26:57 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:26:57 2021: client 49 has received the vaccination 
+Wed Mar 17 22:26:57 2021: client 49 leaves the clinic!
+Wed Mar 17 22:26:57 2021: nurse 5 is ready to give shot 5 out of 6
+Wed Mar 17 22:26:57 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:26:57 2021: client 142 waiting to register
+Wed Mar 17 22:26:57 2021: client 144 waiting to register
+Wed Mar 17 22:26:58 2021: client 143 waiting to register
+Wed Mar 17 22:26:58 2021: client 146 waiting to register
+Wed Mar 17 22:26:58 2021: client 160 has arrived and is walking to register
+Wed Mar 17 22:26:58 2021: client 48 got assigned to station 3
+Wed Mar 17 22:26:58 2021: client 38 has arrived at station 2 
+Wed Mar 17 22:26:58 2021: client 38 is ready to receive the vaccination 
+Wed Mar 17 22:26:58 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:26:58 2021: client 41 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:58 2021: client 46 is registering
+Wed Mar 17 22:26:58 2021: client 45 got assigned to station 1
+Wed Mar 17 22:26:59 2021: client 161 has arrived and is walking to register
+Wed Mar 17 22:26:59 2021: client 152 waiting to register
+Wed Mar 17 22:26:59 2021: client 56 is done registering and will walk to the registration queue
+Wed Mar 17 22:26:59 2021: client 51 is registering
+Wed Mar 17 22:26:59 2021: client 156 waiting to register
+Wed Mar 17 22:26:59 2021: client 39 got assigned to station 6
+Wed Mar 17 22:26:59 2021: client 162 has arrived and is walking to register
+Wed Mar 17 22:26:59 2021: client 155 waiting to register
+Wed Mar 17 22:26:59 2021: client 48 has arrived at station 3 
+Wed Mar 17 22:26:59 2021: client 48 is ready to receive the vaccination 
+Wed Mar 17 22:26:59 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:00 2021: client 163 has arrived and is walking to register
+Wed Mar 17 22:27:00 2021: client 164 has arrived and is walking to register
+Wed Mar 17 22:27:00 2021: client 45 has arrived at station 1 
+Wed Mar 17 22:27:00 2021: client 45 is ready to receive the vaccination 
+Wed Mar 17 22:27:00 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:00 2021: client 165 has arrived and is walking to register
+Wed Mar 17 22:27:00 2021: client 166 has arrived and is walking to register
+Wed Mar 17 22:27:00 2021: client 42 got assigned to station 0
+Wed Mar 17 22:27:01 2021: client 44 got assigned to station 4
+Wed Mar 17 22:27:01 2021: client 157 waiting to register
+Wed Mar 17 22:27:01 2021: client 39 has arrived at station 6 
+Wed Mar 17 22:27:01 2021: client 39 is ready to receive the vaccination 
+Wed Mar 17 22:27:01 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:01 2021: client 154 waiting to register
+Wed Mar 17 22:27:01 2021: client 158 waiting to register
+Wed Mar 17 22:27:01 2021: client 167 has arrived and is walking to register
+Wed Mar 17 22:27:02 2021: client 168 has arrived and is walking to register
+Wed Mar 17 22:27:02 2021: client 42 has arrived at station 0 
+Wed Mar 17 22:27:02 2021: client 42 is ready to receive the vaccination 
+Wed Mar 17 22:27:02 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:02 2021: client 151 waiting to register
+Wed Mar 17 22:27:02 2021: client 44 has arrived at station 4 
+Wed Mar 17 22:27:02 2021: client 44 is ready to receive the vaccination 
+Wed Mar 17 22:27:02 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:02 2021: client 153 waiting to register
+Wed Mar 17 22:27:02 2021: client 52 got assigned to station 8
+Wed Mar 17 22:27:02 2021: client 169 has arrived and is walking to register
+Wed Mar 17 22:27:03 2021: client 46 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:03 2021: client 54 is registering
+Wed Mar 17 22:27:03 2021: client 43 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:03 2021: client 55 is registering
+Wed Mar 17 22:27:03 2021: client 170 has arrived and is walking to register
+Wed Mar 17 22:27:03 2021: client 162 waiting to register
+Wed Mar 17 22:27:03 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:27:03 2021: client 38 has received the vaccination 
+Wed Mar 17 22:27:03 2021: client 38 leaves the clinic!
+Wed Mar 17 22:27:03 2021: nurse 2 is ready to give shot 6 out of 6
+Wed Mar 17 22:27:03 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:27:03 2021: client 51 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:03 2021: client 53 is registering
+Wed Mar 17 22:27:04 2021: client 171 has arrived and is walking to register
+Wed Mar 17 22:27:04 2021: client 172 has arrived and is walking to register
+Wed Mar 17 22:27:04 2021: client 52 has arrived at station 8 
+Wed Mar 17 22:27:04 2021: client 52 is ready to receive the vaccination 
+Wed Mar 17 22:27:04 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:04 2021: nurse 3 has given the vaccination to the client
+Wed Mar 17 22:27:04 2021: nurse 3 is ready to give shot 6 out of 6
+Wed Mar 17 22:27:04 2021: client 48 has received the vaccination 
+Wed Mar 17 22:27:04 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:27:04 2021: client 48 leaves the clinic!
+Wed Mar 17 22:27:05 2021: client 173 has arrived and is walking to register
+Wed Mar 17 22:27:05 2021: client 174 has arrived and is walking to register
+Wed Mar 17 22:27:05 2021: client 159 waiting to register
+Wed Mar 17 22:27:05 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:27:05 2021: client 45 has received the vaccination 
+Wed Mar 17 22:27:05 2021: client 45 leaves the clinic!
+Wed Mar 17 22:27:05 2021: nurse 1 is ready to give shot 6 out of 6
+Wed Mar 17 22:27:05 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:27:05 2021: client 175 has arrived and is walking to register
+Wed Mar 17 22:27:06 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:27:06 2021: client 39 has received the vaccination 
+Wed Mar 17 22:27:06 2021: nurse 6 is ready to give shot 6 out of 6
+Wed Mar 17 22:27:06 2021: client 39 leaves the clinic!
+Wed Mar 17 22:27:06 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:27:06 2021: client 176 has arrived and is walking to register
+Wed Mar 17 22:27:06 2021: client 47 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:06 2021: client 50 is registering
+Wed Mar 17 22:27:06 2021: client 177 has arrived and is walking to register
+Wed Mar 17 22:27:06 2021: client 160 waiting to register
+Wed Mar 17 22:27:07 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:27:07 2021: client 42 has received the vaccination 
+Wed Mar 17 22:27:07 2021: client 42 leaves the clinic!
+Wed Mar 17 22:27:07 2021: nurse 0 is ready to give shot 6 out of 6
+Wed Mar 17 22:27:07 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:27:07 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:27:07 2021: client 44 has received the vaccination 
+Wed Mar 17 22:27:07 2021: nurse 4 is ready to give shot 6 out of 6
+Wed Mar 17 22:27:07 2021: client 44 leaves the clinic!
+Wed Mar 17 22:27:07 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:27:07 2021: client 178 has arrived and is walking to register
+Wed Mar 17 22:27:07 2021: client 170 waiting to register
+Wed Mar 17 22:27:07 2021: client 179 has arrived and is walking to register
+Wed Mar 17 22:27:07 2021: client 161 waiting to register
+Wed Mar 17 22:27:08 2021: client 56 got assigned to station 7
+Wed Mar 17 22:27:08 2021: client 51 got assigned to station 9
+Wed Mar 17 22:27:08 2021: client 53 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:08 2021: client 62 is registering
+Wed Mar 17 22:27:08 2021: client 41 got assigned to station 5
+Wed Mar 17 22:27:08 2021: client 164 waiting to register
+Wed Mar 17 22:27:09 2021: nurse 8 has given the vaccination to the client
+Wed Mar 17 22:27:09 2021: client 52 has received the vaccination 
+Wed Mar 17 22:27:09 2021: client 52 leaves the clinic!
+Wed Mar 17 22:27:09 2021: nurse 8 is ready to give shot 6 out of 6
+Wed Mar 17 22:27:09 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:27:09 2021: client 163 waiting to register
+Wed Mar 17 22:27:09 2021: client 56 has arrived at station 7 
+Wed Mar 17 22:27:09 2021: client 56 is ready to receive the vaccination 
+Wed Mar 17 22:27:09 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:09 2021: client 51 has arrived at station 9 
+Wed Mar 17 22:27:09 2021: client 51 is ready to receive the vaccination 
+Wed Mar 17 22:27:09 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:09 2021: client 168 waiting to register
+Wed Mar 17 22:27:09 2021: client 41 has arrived at station 5 
+Wed Mar 17 22:27:09 2021: client 41 is ready to receive the vaccination 
+Wed Mar 17 22:27:09 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:10 2021: client 166 waiting to register
+Wed Mar 17 22:27:10 2021: client 169 waiting to register
+Wed Mar 17 22:27:10 2021: client 54 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:10 2021: client 59 is registering
+Wed Mar 17 22:27:10 2021: client 178 waiting to register
+Wed Mar 17 22:27:10 2021: client 165 waiting to register
+Wed Mar 17 22:27:10 2021: client 46 got assigned to station 2
+Wed Mar 17 22:27:10 2021: client 167 waiting to register
+Wed Mar 17 22:27:10 2021: client 171 waiting to register
+Wed Mar 17 22:27:10 2021: client 172 waiting to register
+Wed Mar 17 22:27:10 2021: client 55 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:10 2021: client 66 is registering
+Wed Mar 17 22:27:11 2021: client 179 waiting to register
+Wed Mar 17 22:27:11 2021: client 43 got assigned to station 3
+Wed Mar 17 22:27:11 2021: client 174 waiting to register
+Wed Mar 17 22:27:12 2021: client 46 has arrived at station 2 
+Wed Mar 17 22:27:12 2021: client 46 is ready to receive the vaccination 
+Wed Mar 17 22:27:12 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:12 2021: client 43 has arrived at station 3 
+Wed Mar 17 22:27:12 2021: client 43 is ready to receive the vaccination 
+Wed Mar 17 22:27:12 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:13 2021: client 177 waiting to register
+Wed Mar 17 22:27:13 2021: client 173 waiting to register
+Wed Mar 17 22:27:14 2021: client 175 waiting to register
+Wed Mar 17 22:27:14 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:27:14 2021: client 56 has received the vaccination 
+Wed Mar 17 22:27:14 2021: client 56 leaves the clinic!
+Wed Mar 17 22:27:14 2021: nurse 7 is ready to give shot 6 out of 6
+Wed Mar 17 22:27:14 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:27:14 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:27:14 2021: nurse 9 is ready to give shot 6 out of 6
+Wed Mar 17 22:27:14 2021: client 51 has received the vaccination 
+Wed Mar 17 22:27:14 2021: client 51 leaves the clinic!
+Wed Mar 17 22:27:14 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:27:14 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:27:14 2021: nurse 5 is ready to give shot 6 out of 6
+Wed Mar 17 22:27:14 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:27:14 2021: client 41 has received the vaccination 
+Wed Mar 17 22:27:14 2021: client 41 leaves the clinic!
+Wed Mar 17 22:27:14 2021: client 54 got assigned to station 1
+Wed Mar 17 22:27:14 2021: client 50 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:14 2021: client 60 is registering
+Wed Mar 17 22:27:15 2021: client 47 got assigned to station 6
+Wed Mar 17 22:27:15 2021: client 176 waiting to register
+Wed Mar 17 22:27:16 2021: client 47 has arrived at station 6 
+Wed Mar 17 22:27:16 2021: client 47 is ready to receive the vaccination 
+Wed Mar 17 22:27:16 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:16 2021: client 54 has arrived at station 1 
+Wed Mar 17 22:27:16 2021: client 54 is ready to receive the vaccination 
+Wed Mar 17 22:27:16 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:17 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:27:17 2021: client 46 has received the vaccination 
+Wed Mar 17 22:27:17 2021: nurse 2 is walking to get a vial
+Wed Mar 17 22:27:17 2021: client 46 leaves the clinic!
+Wed Mar 17 22:27:17 2021: client 62 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:17 2021: client 57 is registering
+Wed Mar 17 22:27:17 2021: client 53 got assigned to station 0
+Wed Mar 17 22:27:17 2021: nurse 3 has given the vaccination to the client
+: client 43 has received the vaccination 
+Wed Mar 17 22:27:17 2021: client 43 leaves the clinic!
+Wed Mar 17 22:27:17 2021: nurse 3 is walking to get a vial
+Wed Mar 17 22:27:18 2021: nurse 2 has obtained a vial
+Wed Mar 17 22:27:18 2021: client 60 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:18 2021: client 69 is registering
+Wed Mar 17 22:27:18 2021: client 55 got assigned to station 4
+Wed Mar 17 22:27:19 2021: client 66 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:19 2021: client 63 is registering
+Wed Mar 17 22:27:19 2021: client 53 has arrived at station 0 
+Wed Mar 17 22:27:19 2021: client 53 is ready to receive the vaccination 
+Wed Mar 17 22:27:19 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:19 2021: client 59 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:19 2021: client 61 is registering
+Wed Mar 17 22:27:20 2021: client 55 has arrived at station 4 
+Wed Mar 17 22:27:20 2021: client 55 is ready to receive the vaccination 
+Wed Mar 17 22:27:20 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:20 2021: nurse 3 has obtained a vial
+Wed Mar 17 22:27:21 2021: nurse 2 is ready to give shot 1 out of 6
+Wed Mar 17 22:27:21 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:27:21 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:27:21 2021: client 47 has received the vaccination 
+Wed Mar 17 22:27:21 2021: client 47 leaves the clinic!
+Wed Mar 17 22:27:21 2021: nurse 6 is walking to get a vial
+Wed Mar 17 22:27:21 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:27:21 2021: nurse 1 is walking to get a vial
+Wed Mar 17 22:27:21 2021: client 54 has received the vaccination 
+Wed Mar 17 22:27:21 2021: client 54 leaves the clinic!
+Wed Mar 17 22:27:21 2021: client 60 got assigned to station 8
+Wed Mar 17 22:27:22 2021: client 63 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:22 2021: client 58 is registering
+Wed Mar 17 22:27:22 2021: nurse 6 has obtained a vial
+Wed Mar 17 22:27:22 2021: client 60 has arrived at station 8 
+Wed Mar 17 22:27:22 2021: client 60 is ready to receive the vaccination 
+Wed Mar 17 22:27:22 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:23 2021: client 69 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:23 2021: client 70 is registering
+Wed Mar 17 22:27:23 2021: nurse 3 is ready to give shot 1 out of 6
+Wed Mar 17 22:27:23 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:27:23 2021: nurse 1 has obtained a vial
+Wed Mar 17 22:27:23 2021: client 50 got assigned to station 7
+Wed Mar 17 22:27:23 2021: nurse 6 is ready to give shot 1 out of 6
+Wed Mar 17 22:27:23 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:27:23 2021: client 66 got assigned to station 9
+Wed Mar 17 22:27:24 2021: client 62 got assigned to station 5
+Wed Mar 17 22:27:24 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:27:24 2021: client 53 has received the vaccination 
+Wed Mar 17 22:27:24 2021: nurse 0 is walking to get a vial
+Wed Mar 17 22:27:24 2021: client 53 leaves the clinic!
+Wed Mar 17 22:27:24 2021: client 59 got assigned to station 2
+Wed Mar 17 22:27:24 2021: client 50 has arrived at station 7 
+Wed Mar 17 22:27:24 2021: client 50 is ready to receive the vaccination 
+Wed Mar 17 22:27:24 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:25 2021: client 66 has arrived at station 9 
+Wed Mar 17 22:27:25 2021: client 66 is ready to receive the vaccination 
+Wed Mar 17 22:27:25 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:25 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:27:25 2021: client 55 has received the vaccination 
+Wed Mar 17 22:27:25 2021: client 55 leaves the clinic!
+Wed Mar 17 22:27:25 2021: nurse 4 is walking to get a vial
+Wed Mar 17 22:27:25 2021: client 62 has arrived at station 5 
+Wed Mar 17 22:27:25 2021: client 62 is ready to receive the vaccination 
+Wed Mar 17 22:27:25 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:25 2021: nurse 0 has obtained a vial
+Wed Mar 17 22:27:26 2021: nurse 1 is ready to give shot 1 out of 6
+Wed Mar 17 22:27:26 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:27:26 2021: client 69 got assigned to station 3
+Wed Mar 17 22:27:26 2021: client 59 has arrived at station 2 
+Wed Mar 17 22:27:26 2021: client 59 is ready to receive the vaccination 
+Wed Mar 17 22:27:26 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:27 2021: client 61 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:27 2021: client 76 is registering
+Wed Mar 17 22:27:27 2021: client 57 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:27 2021: client 65 is registering
+Wed Mar 17 22:27:27 2021: nurse 0 is ready to give shot 1 out of 6
+Wed Mar 17 22:27:27 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:27:27 2021: client 70 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:27 2021: client 64 is registering
+Wed Mar 17 22:27:27 2021: client 69 has arrived at station 3 
+Wed Mar 17 22:27:27 2021: client 69 is ready to receive the vaccination 
+Wed Mar 17 22:27:27 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:27 2021: nurse 8 has given the vaccination to the client
+Wed Mar 17 22:27:27 2021: client 60 has received the vaccination 
+Wed Mar 17 22:27:27 2021: nurse 8 is walking to get a vial
+Wed Mar 17 22:27:27 2021: client 60 leaves the clinic!
+Wed Mar 17 22:27:28 2021: nurse 4 has obtained a vial
+Wed Mar 17 22:27:29 2021: nurse 8 has obtained a vial
+Wed Mar 17 22:27:29 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:27:29 2021: client 50 has received the vaccination 
+Wed Mar 17 22:27:29 2021: client 50 leaves the clinic!
+Wed Mar 17 22:27:29 2021: nurse 7 is walking to get a vial
+Wed Mar 17 22:27:30 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:27:30 2021: client 66 has received the vaccination 
+Wed Mar 17 22:27:30 2021: nurse 9 is walking to get a vial
+Wed Mar 17 22:27:30 2021: client 66 leaves the clinic!
+Wed Mar 17 22:27:30 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:27:30 2021: nurse 5 is walking to get a vial
+Wed Mar 17 22:27:30 2021: client 62 has received the vaccination 
+Wed Mar 17 22:27:30 2021: client 62 leaves the clinic!
+Wed Mar 17 22:27:30 2021: nurse 4 is ready to give shot 1 out of 6
+Wed Mar 17 22:27:30 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:27:30 2021: client 63 got assigned to station 6
+Wed Mar 17 22:27:31 2021: client 70 got assigned to station 1
+Wed Mar 17 22:27:31 2021: client 58 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:31 2021: client 68 is registering
+Wed Mar 17 22:27:31 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:27:31 2021: client 59 has received the vaccination 
+Wed Mar 17 22:27:31 2021: nurse 2 is ready to give shot 2 out of 6
+Wed Mar 17 22:27:31 2021: client 59 leaves the clinic!
+Wed Mar 17 22:27:31 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:27:31 2021: client 61 got assigned to station 0
+Wed Mar 17 22:27:31 2021: client 65 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:31 2021: client 75 is registering
+Wed Mar 17 22:27:31 2021: client 57 got assigned to station 4
+Wed Mar 17 22:27:31 2021: nurse 8 is ready to give shot 1 out of 6
+Wed Mar 17 22:27:31 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:27:32 2021: nurse 9 has obtained a vial
+Wed Mar 17 22:27:32 2021: nurse 5 has obtained a vial
+Wed Mar 17 22:27:32 2021: nurse 7 has obtained a vial
+Wed Mar 17 22:27:32 2021: client 63 has arrived at station 6 
+Wed Mar 17 22:27:32 2021: client 63 is ready to receive the vaccination 
+Wed Mar 17 22:27:32 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:32 2021: nurse 3 has given the vaccination to the client
+ ed Mar 17 22:27:32 2021: client 69 has received the vaccination 
+Wed Mar 17 22:27:32 2021: client 69 leaves the clinic!
+Wed Mar 17 22:27:32 2021: nurse 3 is ready to give shot 2 out of 6
+Wed Mar 17 22:27:32 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:27:32 2021: client 70 has arrived at station 1 
+Wed Mar 17 22:27:32 2021: client 70 is ready to receive the vaccination 
+Wed Mar 17 22:27:32 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:33 2021: nurse 9 is ready to give shot 1 out of 6
+Wed Mar 17 22:27:33 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:27:33 2021: client 61 has arrived at station 0 
+Wed Mar 17 22:27:33 2021: client 61 is ready to receive the vaccination 
+Wed Mar 17 22:27:33 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:33 2021: client 57 has arrived at station 4 
+Wed Mar 17 22:27:33 2021: client 57 is ready to receive the vaccination 
+Wed Mar 17 22:27:33 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:33 2021: nurse 7 is ready to give shot 1 out of 6
+Wed Mar 17 22:27:33 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:27:33 2021: nurse 5 is ready to give shot 1 out of 6
+Wed Mar 17 22:27:33 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:27:35 2021: client 64 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:35 2021: client 74 is registering
+Wed Mar 17 22:27:36 2021: client 76 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:36 2021: client 72 is registering
+Wed Mar 17 22:27:37 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:27:37 2021: client 63 has received the vaccination 
+Wed Mar 17 22:27:37 2021: client 63 leaves the clinic!
+Wed Mar 17 22:27:37 2021: nurse 6 is ready to give shot 2 out of 6
+Wed Mar 17 22:27:37 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:27:37 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:27:37 2021: nurse 1 is ready to give shot 2 out of 6
+Wed Mar 17 22:27:37 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:27:37 2021: client 70 has received the vaccination 
+Wed Mar 17 22:27:37 2021: client 70 leaves the clinic!
+Wed Mar 17 22:27:38 2021: client 68 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:38 2021: client 67 is registering
+Wed Mar 17 22:27:38 2021: client 65 got assigned to station 2
+Wed Mar 17 22:27:38 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:27:38 2021: nurse 0 is ready to give shot 2 out of 6
+Wed Mar 17 22:27:38 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:27:38 2021: client 61 has received the vaccination 
+Wed Mar 17 22:27:38 2021: client 61 leaves the clinic!
+Wed Mar 17 22:27:38 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:27:38 2021: nurse 4 is ready to give shot 2 out of 6
+Wed Mar 17 22:27:38 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:27:38 2021: client 57 has received the vaccination 
+Wed Mar 17 22:27:38 2021: client 57 leaves the clinic!
+Wed Mar 17 22:27:38 2021: client 75 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:38 2021: client 73 is registering
+Wed Mar 17 22:27:39 2021: client 74 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:39 2021: client 81 is registering
+Wed Mar 17 22:27:39 2021: client 64 got assigned to station 8
+Wed Mar 17 22:27:39 2021: client 58 got assigned to station 3
+Wed Mar 17 22:27:39 2021: client 65 has arrived at station 2 
+Wed Mar 17 22:27:39 2021: client 65 is ready to receive the vaccination 
+Wed Mar 17 22:27:39 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:40 2021: client 58 has arrived at station 3 
+Wed Mar 17 22:27:40 2021: client 58 is ready to receive the vaccination 
+Wed Mar 17 22:27:40 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:41 2021: client 64 has arrived at station 8 
+Wed Mar 17 22:27:41 2021: client 64 is ready to receive the vaccination 
+Wed Mar 17 22:27:41 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:41 2021: client 72 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:41 2021: client 71 is registering
+Wed Mar 17 22:27:41 2021: client 73 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:41 2021: client 77 is registering
+Wed Mar 17 22:27:42 2021: client 68 got assigned to station 9
+Wed Mar 17 22:27:43 2021: client 67 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:43 2021: client 80 is registering
+Wed Mar 17 22:27:43 2021: client 75 got assigned to station 7
+Wed Mar 17 22:27:44 2021: client 68 has arrived at station 9 
+Wed Mar 17 22:27:44 2021: client 68 is ready to receive the vaccination 
+Wed Mar 17 22:27:44 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:44 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:27:44 2021: client 65 has received the vaccination 
+Wed Mar 17 22:27:44 2021: client 65 leaves the clinic!
+Wed Mar 17 22:27:44 2021: nurse 2 is ready to give shot 3 out of 6
+Wed Mar 17 22:27:44 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:27:44 2021: client 75 has arrived at station 7 
+Wed Mar 17 22:27:44 2021: client 75 is ready to receive the vaccination 
+Wed Mar 17 22:27:44 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:45 2021: client 81 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:45 2021: client 86 is registering
+Wed Mar 17 22:27:45 2021: nurse 3 has given the vaccination to the client
+Wed Mar 17 22:27:45 2021: client 58 has received the vaccination 
+Wed Mar 17 22:27:45 2021: client 58 leaves the clinic!
+Wed Mar 17 22:27:45 2021: nurse 3 is ready to give shot 3 out of 6
+Wed Mar 17 22:27:45 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:27:45 2021: client 76 got assigned to station 5
+Wed Mar 17 22:27:45 2021: client 74 got assigned to station 6
+Wed Mar 17 22:27:46 2021: nurse 8 has given the vaccination to the client
+Wed Mar 17 22:27:46 2021: client 64 has received the vaccination 
+Wed Mar 17 22:27:46 2021: client 64 leaves the clinic!
+Wed Mar 17 22:27:46 2021: nurse 8 is ready to give shot 2 out of 6
+Wed Mar 17 22:27:46 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:27:46 2021: client 71 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:46 2021: client 89 is registering
+Wed Mar 17 22:27:46 2021: client 77 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:46 2021: client 79 is registering
+Wed Mar 17 22:27:47 2021: client 80 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:47 2021: client 78 is registering
+Wed Mar 17 22:27:47 2021: client 74 has arrived at station 6 
+Wed Mar 17 22:27:47 2021: client 74 is ready to receive the vaccination 
+Wed Mar 17 22:27:47 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:47 2021: client 76 has arrived at station 5 
+Wed Mar 17 22:27:47 2021: client 76 is ready to receive the vaccination 
+Wed Mar 17 22:27:47 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:48 2021: client 67 got assigned to station 1
+Wed Mar 17 22:27:49 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:27:49 2021: client 68 has received the vaccination 
+Wed Mar 17 22:27:49 2021: client 68 leaves the clinic!
+Wed Mar 17 22:27:49 2021: nurse 9 is ready to give shot 2 out of 6
+Wed Mar 17 22:27:49 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:27:49 2021: client 67 has arrived at station 1 
+Wed Mar 17 22:27:49 2021: client 67 is ready to receive the vaccination 
+Wed Mar 17 22:27:49 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:49 2021: client 72 got assigned to station 0
+Wed Mar 17 22:27:49 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:27:49 2021: client 75 has received the vaccination 
+Wed Mar 17 22:27:49 2021: client 75 leaves the clinic!
+Wed Mar 17 22:27:49 2021: nurse 7 is ready to give shot 2 out of 6
+Wed Mar 17 22:27:49 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:27:49 2021: client 73 got assigned to station 4
+Wed Mar 17 22:27:50 2021: client 79 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:50 2021: client 83 is registering
+Wed Mar 17 22:27:50 2021: client 71 got assigned to station 2
+Wed Mar 17 22:27:51 2021: client 77 got assigned to station 3
+Wed Mar 17 22:27:51 2021: client 73 has arrived at station 4 
+Wed Mar 17 22:27:51 2021: client 73 is ready to receive the vaccination 
+Wed Mar 17 22:27:51 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:51 2021: client 72 has arrived at station 0 
+Wed Mar 17 22:27:51 2021: client 72 is ready to receive the vaccination 
+Wed Mar 17 22:27:51 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:52 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:27:52 2021: client 74 has received the vaccination 
+Wed Mar 17 22:27:52 2021: nurse 6 is ready to give shot 3 out of 6
+Wed Mar 17 22:27:52 2021: client 74 leaves the clinic!
+Wed Mar 17 22:27:52 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:27:52 2021: client 71 has arrived at station 2 
+Wed Mar 17 22:27:52 2021: client 71 is ready to receive the vaccination 
+Wed Mar 17 22:27:52 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:52 2021: client 81 got assigned to station 8
+Wed Mar 17 22:27:52 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:27:52 2021: client 76 has received the vaccination 
+Wed Mar 17 22:27:52 2021: client 76 leaves the clinic!
+Wed Mar 17 22:27:52 2021: nurse 5 is ready to give shot 2 out of 6
+Wed Mar 17 22:27:52 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:27:52 2021: client 77 has arrived at station 3 
+Wed Mar 17 22:27:52 2021: client 77 is ready to receive the vaccination 
+Wed Mar 17 22:27:52 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:53 2021: client 78 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:53 2021: client 87 is registering
+Wed Mar 17 22:27:53 2021: client 81 has arrived at station 8 
+Wed Mar 17 22:27:53 2021: client 81 is ready to receive the vaccination 
+Wed Mar 17 22:27:53 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:53 2021: client 80 got assigned to station 9
+Wed Mar 17 22:27:54 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:27:54 2021: client 67 has received the vaccination 
+Wed Mar 17 22:27:54 2021: client 67 leaves the clinic!
+Wed Mar 17 22:27:54 2021: nurse 1 is ready to give shot 3 out of 6
+Wed Mar 17 22:27:54 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:27:55 2021: client 86 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:55 2021: client 88 is registering
+Wed Mar 17 22:27:55 2021: client 80 has arrived at station 9 
+Wed Mar 17 22:27:55 2021: client 80 is ready to receive the vaccination 
+Wed Mar 17 22:27:55 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:56 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:27:56 2021: client 73 has received the vaccination 
+Wed Mar 17 22:27:56 2021: client 73 leaves the clinic!
+Wed Mar 17 22:27:56 2021: nurse 4 is ready to give shot 3 out of 6
+Wed Mar 17 22:27:56 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:27:56 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:27:56 2021: client 72 has received the vaccination 
+Wed Mar 17 22:27:56 2021: client 72 leaves the clinic!
+Wed Mar 17 22:27:56 2021: nurse 0 is ready to give shot 3 out of 6
+Wed Mar 17 22:27:56 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:27:56 2021: client 79 got assigned to station 7
+Wed Mar 17 22:27:56 2021: client 89 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:56 2021: client 85 is registering
+Wed Mar 17 22:27:56 2021: client 87 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:56 2021: client 82 is registering
+Wed Mar 17 22:27:57 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:27:57 2021: client 71 has received the vaccination 
+Wed Mar 17 22:27:57 2021: client 71 leaves the clinic!
+Wed Mar 17 22:27:57 2021: nurse 2 is ready to give shot 4 out of 6
+Wed Mar 17 22:27:57 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:27:57 2021: client 79 has arrived at station 7 
+Wed Mar 17 22:27:57 2021: client 79 is ready to receive the vaccination 
+Wed Mar 17 22:27:57 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:57 2021: client 78 got assigned to station 6
+Wed Mar 17 22:27:57 2021: nurse 3 has given the vaccination to the client
+Wed Mar 17 22:27:57 2021: client 77 has received the vaccination 
+Wed Mar 17 22:27:57 2021: client 77 leaves the clinic!
+Wed Mar 17 22:27:57 2021: nurse 3 is ready to give shot 4 out of 6
+Wed Mar 17 22:27:57 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:27:57 2021: client 83 is done registering and will walk to the registration queue
+Wed Mar 17 22:27:57 2021: client 91 is registering
+Wed Mar 17 22:27:58 2021: client 78 has arrived at station 6 
+Wed Mar 17 22:27:58 2021: client 78 is ready to receive the vaccination 
+Wed Mar 17 22:27:58 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:27:58 2021: nurse 8 has given the vaccination to the client
+: client 81 has received the vaccination 
+Wed Mar 17 22:27:58 2021: nurse 8 is ready to give shot 3 out of 6
+Wed Mar 17 22:27:58 2021: client 81 leaves the clinic!
+Wed Mar 17 22:27:58 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:28:00 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:28:00 2021: client 80 has received the vaccination 
+Wed Mar 17 22:28:00 2021: client 80 leaves the clinic!
+Wed Mar 17 22:28:00 2021: nurse 9 is ready to give shot 3 out of 6
+Wed Mar 17 22:28:00 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:28:00 2021: client 87 got assigned to station 5
+Wed Mar 17 22:28:02 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:28:02 2021: client 79 has received the vaccination 
+Wed Mar 17 22:28:02 2021: nurse 7 is ready to give shot 3 out of 6
+Wed Mar 17 22:28:02 2021: client 79 leaves the clinic!
+Wed Mar 17 22:28:02 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:28:02 2021: client 87 has arrived at station 5 
+Wed Mar 17 22:28:02 2021: client 87 is ready to receive the vaccination 
+Wed Mar 17 22:28:02 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:03 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:28:03 2021: client 78 has received the vaccination 
+Wed Mar 17 22:28:03 2021: client 78 leaves the clinic!
+Wed Mar 17 22:28:03 2021: nurse 6 is ready to give shot 4 out of 6
+Wed Mar 17 22:28:03 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:28:04 2021: client 83 got assigned to station 1
+Wed Mar 17 22:28:04 2021: client 86 got assigned to station 4
+Wed Mar 17 22:28:04 2021: client 88 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:04 2021: client 84 is registering
+Wed Mar 17 22:28:04 2021: client 89 got assigned to station 0
+Wed Mar 17 22:28:05 2021: client 83 has arrived at station 1 
+Wed Mar 17 22:28:05 2021: client 83 is ready to receive the vaccination 
+Wed Mar 17 22:28:05 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:05 2021: client 86 has arrived at station 4 
+Wed Mar 17 22:28:05 2021: client 86 is ready to receive the vaccination 
+Wed Mar 17 22:28:05 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:06 2021: client 82 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:06 2021: client 90 is registering
+Wed Mar 17 22:28:06 2021: client 85 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:06 2021: client 96 is registering
+Wed Mar 17 22:28:06 2021: client 89 has arrived at station 0 
+Wed Mar 17 22:28:06 2021: client 89 is ready to receive the vaccination 
+Wed Mar 17 22:28:06 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:06 2021: client 91 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:06 2021: client 97 is registering
+Wed Mar 17 22:28:07 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:28:07 2021: client 87 has received the vaccination 
+Wed Mar 17 22:28:07 2021: client 87 leaves the clinic!
+Wed Mar 17 22:28:07 2021: nurse 5 is ready to give shot 3 out of 6
+Wed Mar 17 22:28:07 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:28:09 2021: client 96 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:09 2021: client 92 is registering
+Wed Mar 17 22:28:09 2021: client 84 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:09 2021: client 93 is registering
+Wed Mar 17 22:28:10 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:28:10 2021: client 83 has received the vaccination 
+Wed Mar 17 22:28:10 2021: client 83 leaves the clinic!
+Wed Mar 17 22:28:10 2021: nurse 1 is ready to give shot 4 out of 6
+Wed Mar 17 22:28:10 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:28:10 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:28:10 2021: client 86 has received the vaccination 
+Wed Mar 17 22:28:10 2021: client 86 leaves the clinic!
+Wed Mar 17 22:28:10 2021: nurse 4 is ready to give shot 4 out of 6
+Wed Mar 17 22:28:10 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:28:10 2021: client 90 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:10 2021: client 100 is registering
+Wed Mar 17 22:28:10 2021: client 97 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:10 2021: client 99 is registering
+Wed Mar 17 22:28:10 2021: client 82 got assigned to station 2
+Wed Mar 17 22:28:11 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:28:11 2021: client 89 has received the vaccination 
+Wed Mar 17 22:28:11 2021: client 89 leaves the clinic!
+Wed Mar 17 22:28:11 2021: nurse 0 is ready to give shot 4 out of 6
+Wed Mar 17 22:28:11 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:28:11 2021: client 88 got assigned to station 3
+Wed Mar 17 22:28:12 2021: client 82 has arrived at station 2 
+Wed Mar 17 22:28:12 2021: client 82 is ready to receive the vaccination 
+Wed Mar 17 22:28:12 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:12 2021: client 85 got assigned to station 8
+Wed Mar 17 22:28:13 2021: client 88 has arrived at station 3 
+Wed Mar 17 22:28:13 2021: client 88 is ready to receive the vaccination 
+Wed Mar 17 22:28:13 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:13 2021: client 85 has arrived at station 8 
+Wed Mar 17 22:28:13 2021: client 85 is ready to receive the vaccination 
+Wed Mar 17 22:28:13 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:14 2021: client 92 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:14 2021: client 102 is registering
+Wed Mar 17 22:28:14 2021: client 84 got assigned to station 9
+Wed Mar 17 22:28:14 2021: client 91 got assigned to station 7
+Wed Mar 17 22:28:15 2021: client 100 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:15 2021: client 98 is registering
+Wed Mar 17 22:28:15 2021: client 90 got assigned to station 6
+Wed Mar 17 22:28:15 2021: client 93 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:15 2021: client 104 is registering
+Wed Mar 17 22:28:16 2021: client 91 has arrived at station 7 
+Wed Mar 17 22:28:16 2021: client 91 is ready to receive the vaccination 
+Wed Mar 17 22:28:16 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:16 2021: client 97 got assigned to station 5
+Wed Mar 17 22:28:16 2021: client 84 has arrived at station 9 
+Wed Mar 17 22:28:16 2021: client 84 is ready to receive the vaccination 
+Wed Mar 17 22:28:16 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:16 2021: client 96 got assigned to station 1
+Wed Mar 17 22:28:16 2021: client 99 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:16 2021: client 94 is registering
+Wed Mar 17 22:28:16 2021: client 90 has arrived at station 6 
+Wed Mar 17 22:28:16 2021: client 90 is ready to receive the vaccination 
+Wed Mar 17 22:28:16 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:17 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:28:17 2021: nurse 2 is ready to give shot 5 out of 6
+Wed Mar 17 22:28:17 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:28:17 2021: client 82 has received the vaccination 
+Wed Mar 17 22:28:17 2021: client 82 leaves the clinic!
+Wed Mar 17 22:28:17 2021: client 97 has arrived at station 5 
+Wed Mar 17 22:28:17 2021: client 97 is ready to receive the vaccination 
+Wed Mar 17 22:28:17 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:18 2021: client 96 has arrived at station 1 
+Wed Mar 17 22:28:18 2021: client 96 is ready to receive the vaccination 
+Wed Mar 17 22:28:18 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:18 2021: nurse 3 has given the vaccination to the client
+Wed Mar 17 22:28:18 2021: client 88 has received the vaccination 
+Wed Mar 17 22:28:18 2021: nurse 3 is ready to give shot 5 out of 6
+Wed Mar 17 22:28:18 2021: client 88 leaves the clinic!
+Wed Mar 17 22:28:18 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:28:18 2021: nurse 8 has given the vaccination to the client
+Wed Mar 17 22:28:18 2021: nurse 8 is ready to give shot 4 out of 6
+Wed Mar 17 22:28:18 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:28:18 2021: client 85 has received the vaccination 
+Wed Mar 17 22:28:18 2021: client 85 leaves the clinic!
+Wed Mar 17 22:28:19 2021: client 92 got assigned to station 4
+Wed Mar 17 22:28:20 2021: client 99 got assigned to station 0
+Wed Mar 17 22:28:20 2021: client 100 got assigned to station 2
+Wed Mar 17 22:28:21 2021: client 92 has arrived at station 4 
+Wed Mar 17 22:28:21 2021: client 92 is ready to receive the vaccination 
+Wed Mar 17 22:28:21 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:21 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:28:21 2021: client 91 has received the vaccination 
+Wed Mar 17 22:28:21 2021: client 91 leaves the clinic!
+Wed Mar 17 22:28:21 2021: nurse 7 is ready to give shot 4 out of 6
+Wed Mar 17 22:28:21 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:28:21 2021: client 102 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:21 2021: client 103 is registering
+Wed Mar 17 22:28:21 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:28:21 2021: nurse 9 is ready to give shot 4 out of 6
+Wed Mar 17 22:28:21 2021: client 84 has received the vaccination 
+Wed Mar 17 22:28:21 2021: client 84 leaves the clinic!
+Wed Mar 17 22:28:21 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:28:21 2021: client 98 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:21 2021: client 95 is registering
+Wed Mar 17 22:28:21 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:28:21 2021: client 90 has received the vaccination 
+Wed Mar 17 22:28:21 2021: client 90 leaves the clinic!
+Wed Mar 17 22:28:21 2021: nurse 6 is ready to give shot 5 out of 6
+Wed Mar 17 22:28:21 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:28:22 2021: client 99 has arrived at station 0 
+Wed Mar 17 22:28:22 2021: client 99 is ready to receive the vaccination 
+Wed Mar 17 22:28:22 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:22 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:28:22 2021: client 97 has received the vaccination 
+Wed Mar 17 22:28:22 2021: client 97 leaves the clinic!
+Wed Mar 17 22:28:22 2021: nurse 5 is ready to give shot 4 out of 6
+Wed Mar 17 22:28:22 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:28:22 2021: client 100 has arrived at station 2 
+Wed Mar 17 22:28:22 2021: client 100 is ready to receive the vaccination 
+Wed Mar 17 22:28:22 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:23 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:28:23 2021: client 96 has received the vaccination 
+Wed Mar 17 22:28:23 2021: client 96 leaves the clinic!
+Wed Mar 17 22:28:23 2021: nurse 1 is ready to give shot 5 out of 6
+Wed Mar 17 22:28:23 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:28:23 2021: client 94 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:23 2021: client 105 is registering
+Wed Mar 17 22:28:23 2021: client 93 got assigned to station 3
+Wed Mar 17 22:28:24 2021: client 102 got assigned to station 8
+Wed Mar 17 22:28:24 2021: client 93 has arrived at station 3 
+Wed Mar 17 22:28:24 2021: client 93 is ready to receive the vaccination 
+Wed Mar 17 22:28:24 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:25 2021: client 104 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:25 2021: client 106 is registering
+Wed Mar 17 22:28:26 2021: client 102 has arrived at station 8 
+Wed Mar 17 22:28:26 2021: client 102 is ready to receive the vaccination 
+Wed Mar 17 22:28:26 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:26 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:28:26 2021: nurse 4 is ready to give shot 5 out of 6
+Wed Mar 17 22:28:26 2021: client 92 has received the vaccination 
+Wed Mar 17 22:28:26 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:28:26 2021: client 92 leaves the clinic!
+Wed Mar 17 22:28:27 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:28:27 2021: client 99 has received the vaccination 
+Wed Mar 17 22:28:27 2021: nurse 0 is ready to give shot 5 out of 6
+Wed Mar 17 22:28:27 2021: client 99 leaves the clinic!
+Wed Mar 17 22:28:27 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:28:27 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:28:27 2021: client 100 has received the vaccination 
+Wed Mar 17 22:28:27 2021: nurse 2 is ready to give shot 6 out of 6
+Wed Mar 17 22:28:27 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:28:27 2021: client 100 leaves the clinic!
+Wed Mar 17 22:28:27 2021: client 98 got assigned to station 7
+Wed Mar 17 22:28:27 2021: client 94 got assigned to station 9
+Wed Mar 17 22:28:28 2021: client 105 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:28 2021: client 101 is registering
+Wed Mar 17 22:28:28 2021: client 98 has arrived at station 7 
+Wed Mar 17 22:28:28 2021: client 98 is ready to receive the vaccination 
+Wed Mar 17 22:28:28 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:28 2021: client 94 has arrived at station 9 
+Wed Mar 17 22:28:28 2021: client 94 is ready to receive the vaccination 
+Wed Mar 17 22:28:28 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:29 2021: nurse 3 has given the vaccination to the client
+Wed Mar 17 22:28:29 2021: client 93 has received the vaccination 
+Wed Mar 17 22:28:29 2021: client 93 leaves the clinic!
+Wed Mar 17 22:28:29 2021: nurse 3 is ready to give shot 6 out of 6
+Wed Mar 17 22:28:29 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:28:30 2021: client 103 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:30 2021: client 108 is registering
+Wed Mar 17 22:28:31 2021: nurse 8 has given the vaccination to the client
+: client 102 has received the vaccination 
+Wed Mar 17 22:28:31 2021: client 102 leaves the clinic!
+Wed Mar 17 22:28:31 2021: nurse 8 is ready to give shot 5 out of 6
+Wed Mar 17 22:28:31 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:28:31 2021: client 95 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:31 2021: client 112 is registering
+Wed Mar 17 22:28:33 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:28:33 2021: nurse 7 is ready to give shot 5 out of 6
+Wed Mar 17 22:28:33 2021: client 98 has received the vaccination 
+Wed Mar 17 22:28:33 2021: client 98 leaves the clinic!
+Wed Mar 17 22:28:33 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:28:33 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:28:33 2021: client 94 has received the vaccination 
+Wed Mar 17 22:28:33 2021: client 94 leaves the clinic!
+Wed Mar 17 22:28:33 2021: nurse 9 is ready to give shot 5 out of 6
+Wed Mar 17 22:28:33 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:28:34 2021: client 104 got assigned to station 6
+Wed Mar 17 22:28:34 2021: client 106 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:34 2021: client 110 is registering
+Wed Mar 17 22:28:34 2021: client 101 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:34 2021: client 114 is registering
+Wed Mar 17 22:28:35 2021: client 104 has arrived at station 6 
+Wed Mar 17 22:28:35 2021: client 104 is ready to receive the vaccination 
+Wed Mar 17 22:28:35 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:36 2021: client 95 got assigned to station 5
+Wed Mar 17 22:28:37 2021: client 95 has arrived at station 5 
+Wed Mar 17 22:28:37 2021: client 95 is ready to receive the vaccination 
+Wed Mar 17 22:28:37 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:38 2021: client 105 got assigned to station 1
+Wed Mar 17 22:28:38 2021: client 112 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:38 2021: client 109 is registering
+Wed Mar 17 22:28:39 2021: client 105 has arrived at station 1 
+Wed Mar 17 22:28:39 2021: client 105 is ready to receive the vaccination 
+Wed Mar 17 22:28:39 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:40 2021: client 108 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:40 2021: client 107 is registering
+Wed Mar 17 22:28:40 2021: client 103 got assigned to station 4
+Wed Mar 17 22:28:40 2021: nurse 6 has given the vaccination to the client
+ ed Mar 17 22:28:40 2021: client 104 has received the vaccination 
+Wed Mar 17 22:28:40 2021: client 104 leaves the clinic!
+Wed Mar 17 22:28:40 2021: nurse 6 is ready to give shot 6 out of 6
+Wed Mar 17 22:28:40 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:28:41 2021: client 112 got assigned to station 0
+Wed Mar 17 22:28:42 2021: client 101 got assigned to station 2
+Wed Mar 17 22:28:42 2021: client 103 has arrived at station 4 
+Wed Mar 17 22:28:42 2021: client 103 is ready to receive the vaccination 
+Wed Mar 17 22:28:42 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:42 2021: client 109 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:42 2021: client 115 is registering
+Wed Mar 17 22:28:42 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:28:42 2021: client 95 has received the vaccination 
+Wed Mar 17 22:28:42 2021: client 95 leaves the clinic!
+Wed Mar 17 22:28:42 2021: nurse 5 is ready to give shot 5 out of 6
+Wed Mar 17 22:28:42 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:28:43 2021: client 101 has arrived at station 2 
+Wed Mar 17 22:28:43 2021: client 101 is ready to receive the vaccination 
+Wed Mar 17 22:28:43 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:43 2021: client 112 has arrived at station 0 
+Wed Mar 17 22:28:43 2021: client 112 is ready to receive the vaccination 
+Wed Mar 17 22:28:43 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:43 2021: client 114 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:43 2021: client 113 is registering
+Wed Mar 17 22:28:43 2021: client 110 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:43 2021: client 118 is registering
+Wed Mar 17 22:28:44 2021: client 106 got assigned to station 3
+Wed Mar 17 22:28:44 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:28:44 2021: client 105 has received the vaccination 
+Wed Mar 17 22:28:44 2021: client 105 leaves the clinic!
+Wed Mar 17 22:28:44 2021: nurse 1 is ready to give shot 6 out of 6
+Wed Mar 17 22:28:44 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:28:44 2021: client 107 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:44 2021: client 117 is registering
+Wed Mar 17 22:28:45 2021: client 106 has arrived at station 3 
+Wed Mar 17 22:28:45 2021: client 106 is ready to receive the vaccination 
+Wed Mar 17 22:28:45 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:45 2021: client 108 got assigned to station 8
+Wed Mar 17 22:28:46 2021: client 118 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:46 2021: client 123 is registering
+Wed Mar 17 22:28:47 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:28:47 2021: client 103 has received the vaccination 
+Wed Mar 17 22:28:47 2021: client 103 leaves the clinic!
+Wed Mar 17 22:28:47 2021: nurse 4 is ready to give shot 6 out of 6
+Wed Mar 17 22:28:47 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:28:47 2021: client 108 has arrived at station 8 
+Wed Mar 17 22:28:47 2021: client 108 is ready to receive the vaccination 
+Wed Mar 17 22:28:47 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:48 2021: client 113 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:48 2021: client 122 is registering
+Wed Mar 17 22:28:48 2021: client 109 got assigned to station 7
+Wed Mar 17 22:28:48 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:28:48 2021: client 101 has received the vaccination 
+Wed Mar 17 22:28:48 2021: nurse 2 is walking to get a vial
+Wed Mar 17 22:28:48 2021: client 101 leaves the clinic!
+Wed Mar 17 22:28:48 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:28:48 2021: client 112 has received the vaccination 
+Wed Mar 17 22:28:48 2021: client 112 leaves the clinic!
+Wed Mar 17 22:28:48 2021: nurse 0 is ready to give shot 6 out of 6
+Wed Mar 17 22:28:48 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:28:49 2021: client 114 got assigned to station 9
+Wed Mar 17 22:28:50 2021: client 109 has arrived at station 7 
+Wed Mar 17 22:28:50 2021: client 109 is ready to receive the vaccination 
+Wed Mar 17 22:28:50 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:50 2021: client 110 got assigned to station 6
+Wed Mar 17 22:28:50 2021: nurse 3 has given the vaccination to the client
+Wed Mar 17 22:28:50 2021: client 106 has received the vaccination 
+Wed Mar 17 22:28:50 2021: client 106 leaves the clinic!
+Wed Mar 17 22:28:50 2021: nurse 3 is walking to get a vial
+Wed Mar 17 22:28:50 2021: client 114 has arrived at station 9 
+Wed Mar 17 22:28:50 2021: client 114 is ready to receive the vaccination 
+Wed Mar 17 22:28:50 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:50 2021: client 115 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:50 2021: client 120 is registering
+Wed Mar 17 22:28:50 2021: nurse 2 has obtained a vial
+Wed Mar 17 22:28:50 2021: client 118 got assigned to station 5
+Wed Mar 17 22:28:51 2021: client 107 got assigned to station 1
+Wed Mar 17 22:28:52 2021: client 110 has arrived at station 6 
+Wed Mar 17 22:28:52 2021: client 110 is ready to receive the vaccination 
+Wed Mar 17 22:28:52 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:52 2021: nurse 2 is ready to give shot 1 out of 6
+Wed Mar 17 22:28:52 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:28:52 2021: nurse 8 has given the vaccination to the client
+Wed Mar 17 22:28:52 2021: client 108 has received the vaccination 
+Wed Mar 17 22:28:52 2021: client 108 leaves the clinic!
+Wed Mar 17 22:28:52 2021: nurse 8 is ready to give shot 6 out of 6
+Wed Mar 17 22:28:52 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:28:52 2021: client 118 has arrived at station 5 
+Wed Mar 17 22:28:52 2021: client 118 is ready to receive the vaccination 
+Wed Mar 17 22:28:52 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:53 2021: client 107 has arrived at station 1 
+Wed Mar 17 22:28:53 2021: client 107 is ready to receive the vaccination 
+Wed Mar 17 22:28:53 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:53 2021: nurse 3 has obtained a vial
+Wed Mar 17 22:28:53 2021: client 117 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:53 2021: client 111 is registering
+Wed Mar 17 22:28:55 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:28:55 2021: client 109 has received the vaccination 
+Wed Mar 17 22:28:55 2021: client 109 leaves the clinic!
+Wed Mar 17 22:28:55 2021: nurse 7 is ready to give shot 6 out of 6
+Wed Mar 17 22:28:55 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:28:55 2021: nurse 3 is ready to give shot 1 out of 6
+Wed Mar 17 22:28:55 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:28:55 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:28:55 2021: client 114 has received the vaccination 
+Wed Mar 17 22:28:55 2021: client 114 leaves the clinic!
+Wed Mar 17 22:28:55 2021: nurse 9 is ready to give shot 6 out of 6
+Wed Mar 17 22:28:55 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:28:55 2021: client 123 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:55 2021: client 116 is registering
+Wed Mar 17 22:28:55 2021: client 122 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:55 2021: client 124 is registering
+Wed Mar 17 22:28:56 2021: client 120 is done registering and will walk to the registration queue
+Wed Mar 17 22:28:56 2021: client 119 is registering
+Wed Mar 17 22:28:57 2021: client 115 got assigned to station 4
+Wed Mar 17 22:28:57 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:28:57 2021: client 110 has received the vaccination 
+Wed Mar 17 22:28:57 2021: nurse 6 is walking to get a vial
+Wed Mar 17 22:28:57 2021: client 110 leaves the clinic!
+Wed Mar 17 22:28:57 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:28:57 2021: client 118 has received the vaccination 
+Wed Mar 17 22:28:57 2021: client 118 leaves the clinic!
+Wed Mar 17 22:28:57 2021: nurse 5 is ready to give shot 6 out of 6
+Wed Mar 17 22:28:57 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:28:57 2021: client 113 got assigned to station 0
+Wed Mar 17 22:28:58 2021: nurse 1 has given the vaccination to the client
+ ed Mar 17 22:28:58 2021: client 107 has received the vaccination 
+Wed Mar 17 22:28:58 2021: client 107 leaves the clinic!
+Wed Mar 17 22:28:58 2021: nurse 1 is walking to get a vial
+Wed Mar 17 22:28:58 2021: client 115 has arrived at station 4 
+Wed Mar 17 22:28:58 2021: client 115 is ready to receive the vaccination 
+Wed Mar 17 22:28:58 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:59 2021: nurse 6 has obtained a vial
+Wed Mar 17 22:28:59 2021: client 113 has arrived at station 0 
+Wed Mar 17 22:28:59 2021: client 113 is ready to receive the vaccination 
+Wed Mar 17 22:28:59 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:28:59 2021: client 120 got assigned to station 2
+Wed Mar 17 22:29:00 2021: client 116 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:00 2021: client 125 is registering
+Wed Mar 17 22:29:00 2021: nurse 6 is ready to give shot 1 out of 6
+Wed Mar 17 22:29:00 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:29:00 2021: nurse 1 has obtained a vial
+Wed Mar 17 22:29:00 2021: client 117 got assigned to station 8
+Wed Mar 17 22:29:01 2021: client 123 got assigned to station 7
+Wed Mar 17 22:29:01 2021: client 120 has arrived at station 2 
+Wed Mar 17 22:29:01 2021: client 120 is ready to receive the vaccination 
+Wed Mar 17 22:29:01 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:01 2021: client 111 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:01 2021: client 126 is registering
+Wed Mar 17 22:29:02 2021: client 117 has arrived at station 8 
+Wed Mar 17 22:29:02 2021: client 117 is ready to receive the vaccination 
+Wed Mar 17 22:29:02 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:02 2021: client 123 has arrived at station 7 
+Wed Mar 17 22:29:02 2021: client 123 is ready to receive the vaccination 
+Wed Mar 17 22:29:02 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:03 2021: nurse 1 is ready to give shot 1 out of 6
+Wed Mar 17 22:29:03 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:29:03 2021: client 116 got assigned to station 3
+Wed Mar 17 22:29:03 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:29:03 2021: client 115 has received the vaccination 
+Wed Mar 17 22:29:03 2021: client 115 leaves the clinic!
+Wed Mar 17 22:29:03 2021: nurse 4 is walking to get a vial
+Wed Mar 17 22:29:04 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:29:04 2021: client 113 has received the vaccination 
+Wed Mar 17 22:29:04 2021: client 113 leaves the clinic!
+Wed Mar 17 22:29:04 2021: nurse 0 is walking to get a vial
+Wed Mar 17 22:29:04 2021: client 116 has arrived at station 3 
+Wed Mar 17 22:29:04 2021: client 116 is ready to receive the vaccination 
+Wed Mar 17 22:29:04 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:04 2021: nurse 4 has obtained a vial
+Wed Mar 17 22:29:05 2021: client 124 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:05 2021: client 121 is registering
+Wed Mar 17 22:29:05 2021: client 119 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:05 2021: client 129 is registering
+Wed Mar 17 22:29:05 2021: client 122 got assigned to station 9
+Wed Mar 17 22:29:05 2021: nurse 0 has obtained a vial
+Wed Mar 17 22:29:05 2021: client 125 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:05 2021: client 128 is registering
+Wed Mar 17 22:29:06 2021: client 122 has arrived at station 9 
+Wed Mar 17 22:29:06 2021: client 122 is ready to receive the vaccination 
+Wed Mar 17 22:29:06 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:06 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:29:06 2021: client 120 has received the vaccination 
+Wed Mar 17 22:29:06 2021: client 120 leaves the clinic!
+Wed Mar 17 22:29:06 2021: nurse 2 is ready to give shot 2 out of 6
+Wed Mar 17 22:29:06 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:29:06 2021: nurse 4 is ready to give shot 1 out of 6
+Wed Mar 17 22:29:06 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:29:07 2021: nurse 8 has given the vaccination to the client
+Wed Mar 17 22:29:07 2021: client 117 has received the vaccination 
+Wed Mar 17 22:29:07 2021: client 117 leaves the clinic!
+Wed Mar 17 22:29:07 2021: nurse 8 is walking to get a vial
+Wed Mar 17 22:29:07 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:29:07 2021: nurse 7 is walking to get a vial
+Wed Mar 17 22:29:07 2021: client 123 has received the vaccination 
+Wed Mar 17 22:29:07 2021: client 123 leaves the clinic!
+Wed Mar 17 22:29:08 2021: nurse 0 is ready to give shot 1 out of 6
+Wed Mar 17 22:29:08 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:29:08 2021: client 111 got assigned to station 5
+Wed Mar 17 22:29:09 2021: nurse 3 has given the vaccination to the client
+Wed Mar 17 22:29:09 2021: client 116 has received the vaccination 
+Wed Mar 17 22:29:09 2021: client 116 leaves the clinic!
+Wed Mar 17 22:29:09 2021: nurse 3 is ready to give shot 2 out of 6
+Wed Mar 17 22:29:09 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:29:09 2021: nurse 7 has obtained a vial
+Wed Mar 17 22:29:10 2021: nurse 8 has obtained a vial
+Wed Mar 17 22:29:10 2021: client 111 has arrived at station 5 
+Wed Mar 17 22:29:10 2021: client 111 is ready to receive the vaccination 
+Wed Mar 17 22:29:10 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:10 2021: nurse 7 is ready to give shot 1 out of 6
+Wed Mar 17 22:29:10 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:29:11 2021: client 129 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:11 2021: client 132 is registering
+Wed Mar 17 22:29:11 2021: client 126 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:11 2021: client 134 is registering
+Wed Mar 17 22:29:11 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:29:11 2021: client 122 has received the vaccination 
+Wed Mar 17 22:29:11 2021: client 122 leaves the clinic!
+Wed Mar 17 22:29:11 2021: nurse 9 is walking to get a vial
+Wed Mar 17 22:29:12 2021: client 121 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:12 2021: client 127 is registering
+Wed Mar 17 22:29:12 2021: client 125 got assigned to station 6
+Wed Mar 17 22:29:12 2021: client 128 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:12 2021: client 130 is registering
+Wed Mar 17 22:29:13 2021: nurse 8 is ready to give shot 1 out of 6
+Wed Mar 17 22:29:13 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:29:13 2021: nurse 9 has obtained a vial
+Wed Mar 17 22:29:13 2021: client 125 has arrived at station 6 
+Wed Mar 17 22:29:13 2021: client 125 is ready to receive the vaccination 
+Wed Mar 17 22:29:13 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:13 2021: client 119 got assigned to station 1
+Wed Mar 17 22:29:14 2021: client 126 got assigned to station 2
+Wed Mar 17 22:29:14 2021: client 129 got assigned to station 4
+Wed Mar 17 22:29:15 2021: client 119 has arrived at station 1 
+Wed Mar 17 22:29:15 2021: client 119 is ready to receive the vaccination 
+Wed Mar 17 22:29:15 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:15 2021: client 124 got assigned to station 0
+Wed Mar 17 22:29:15 2021: client 132 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:15 2021: client 138 is registering
+Wed Mar 17 22:29:15 2021: nurse 9 is ready to give shot 1 out of 6
+Wed Mar 17 22:29:15 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:29:15 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:29:15 2021: client 111 has received the vaccination 
+Wed Mar 17 22:29:15 2021: client 111 leaves the clinic!
+Wed Mar 17 22:29:15 2021: nurse 5 is walking to get a vial
+Wed Mar 17 22:29:15 2021: client 126 has arrived at station 2 
+Wed Mar 17 22:29:15 2021: client 126 is ready to receive the vaccination 
+Wed Mar 17 22:29:15 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:16 2021: client 129 has arrived at station 4 
+Wed Mar 17 22:29:16 2021: client 129 is ready to receive the vaccination 
+Wed Mar 17 22:29:16 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:16 2021: client 124 has arrived at station 0 
+Wed Mar 17 22:29:16 2021: client 124 is ready to receive the vaccination 
+Wed Mar 17 22:29:16 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:18 2021: nurse 5 has obtained a vial
+Wed Mar 17 22:29:18 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:29:18 2021: client 125 has received the vaccination 
+Wed Mar 17 22:29:18 2021: nurse 6 is ready to give shot 2 out of 6
+Wed Mar 17 22:29:18 2021: client 125 leaves the clinic!
+Wed Mar 17 22:29:18 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:29:19 2021: client 121 got assigned to station 3
+Wed Mar 17 22:29:19 2021: client 134 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:19 2021: client 137 is registering
+Wed Mar 17 22:29:19 2021: client 130 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:19 2021: client 131 is registering
+Wed Mar 17 22:29:19 2021: client 128 got assigned to station 7
+Wed Mar 17 22:29:19 2021: client 127 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:19 2021: client 140 is registering
+Wed Mar 17 22:29:20 2021: nurse 5 is ready to give shot 1 out of 6
+Wed Mar 17 22:29:20 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:29:20 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:29:20 2021: client 119 has received the vaccination 
+Wed Mar 17 22:29:20 2021: client 119 leaves the clinic!
+Wed Mar 17 22:29:20 2021: nurse 1 is ready to give shot 2 out of 6
+Wed Mar 17 22:29:20 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:29:20 2021: client 121 has arrived at station 3 
+Wed Mar 17 22:29:20 2021: client 121 is ready to receive the vaccination 
+Wed Mar 17 22:29:20 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:20 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:29:20 2021: client 126 has received the vaccination 
+Wed Mar 17 22:29:20 2021: nurse 2 is ready to give shot 3 out of 6
+Wed Mar 17 22:29:20 2021: client 126 leaves the clinic!
+Wed Mar 17 22:29:20 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:29:21 2021: client 128 has arrived at station 7 
+Wed Mar 17 22:29:21 2021: client 128 is ready to receive the vaccination 
+Wed Mar 17 22:29:21 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:21 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:29:21 2021: client 129 has received the vaccination 
+Wed Mar 17 22:29:21 2021: nurse 4 is ready to give shot 2 out of 6
+Wed Mar 17 22:29:21 2021: client 129 leaves the clinic!
+Wed Mar 17 22:29:21 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:29:21 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:29:21 2021: client 124 has received the vaccination 
+Wed Mar 17 22:29:21 2021: nurse 0 is ready to give shot 2 out of 6
+Wed Mar 17 22:29:21 2021: client 124 leaves the clinic!
+Wed Mar 17 22:29:21 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:29:22 2021: client 132 got assigned to station 8
+Wed Mar 17 22:29:22 2021: client 131 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:22 2021: client 133 is registering
+Wed Mar 17 22:29:23 2021: client 138 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:23 2021: client 136 is registering
+Wed Mar 17 22:29:23 2021: client 127 got assigned to station 9
+Wed Mar 17 22:29:23 2021: client 134 got assigned to station 6
+Wed Mar 17 22:29:23 2021: client 140 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:23 2021: client 135 is registering
+Wed Mar 17 22:29:24 2021: client 132 has arrived at station 8 
+Wed Mar 17 22:29:24 2021: client 132 is ready to receive the vaccination 
+Wed Mar 17 22:29:24 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:24 2021: client 127 has arrived at station 9 
+Wed Mar 17 22:29:24 2021: client 127 is ready to receive the vaccination 
+Wed Mar 17 22:29:24 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:24 2021: client 134 has arrived at station 6 
+Wed Mar 17 22:29:24 2021: client 134 is ready to receive the vaccination 
+Wed Mar 17 22:29:24 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:25 2021: client 130 got assigned to station 5
+Wed Mar 17 22:29:25 2021: nurse 3 has given the vaccination to the client
+Wed Mar 17 22:29:25 2021: client 121 has received the vaccination 
+Wed Mar 17 22:29:25 2021: client 121 leaves the clinic!
+Wed Mar 17 22:29:25 2021: nurse 3 is ready to give shot 3 out of 6
+Wed Mar 17 22:29:25 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:29:25 2021: client 133 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:25 2021: client 139 is registering
+Wed Mar 17 22:29:26 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:29:26 2021: client 128 has received the vaccination 
+Wed Mar 17 22:29:26 2021: nurse 7 is ready to give shot 2 out of 6
+Wed Mar 17 22:29:26 2021: client 128 leaves the clinic!
+Wed Mar 17 22:29:26 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:29:26 2021: client 130 has arrived at station 5 
+Wed Mar 17 22:29:26 2021: client 130 is ready to receive the vaccination 
+Wed Mar 17 22:29:26 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:27 2021: client 140 got assigned to station 1
+Wed Mar 17 22:29:27 2021: client 137 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:27 2021: client 147 is registering
+Wed Mar 17 22:29:29 2021: nurse 8 has given the vaccination to the client
+: client 132 has received the vaccination 
+Wed Mar 17 22:29:29 2021: client 132 leaves the clinic!
+Wed Mar 17 22:29:29 2021: nurse 8 is ready to give shot 2 out of 6
+Wed Mar 17 22:29:29 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:29:29 2021: client 131 got assigned to station 2
+Wed Mar 17 22:29:29 2021: client 136 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:29 2021: client 141 is registering
+Wed Mar 17 22:29:29 2021: client 140 has arrived at station 1 
+Wed Mar 17 22:29:29 2021: client 140 is ready to receive the vaccination 
+Wed Mar 17 22:29:29 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:29 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:29:29 2021: client 127 has received the vaccination 
+Wed Mar 17 22:29:29 2021: client 127 leaves the clinic!
+Wed Mar 17 22:29:29 2021: nurse 9 is ready to give shot 2 out of 6
+Wed Mar 17 22:29:29 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:29:29 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:29:29 2021: client 134 has received the vaccination 
+Wed Mar 17 22:29:29 2021: client 134 leaves the clinic!
+Wed Mar 17 22:29:29 2021: nurse 6 is ready to give shot 3 out of 6
+Wed Mar 17 22:29:29 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:29:30 2021: client 131 has arrived at station 2 
+Wed Mar 17 22:29:30 2021: client 131 is ready to receive the vaccination 
+Wed Mar 17 22:29:30 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:30 2021: client 139 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:30 2021: client 149 is registering
+Wed Mar 17 22:29:30 2021: client 138 got assigned to station 4
+Wed Mar 17 22:29:30 2021: client 133 got assigned to station 0
+Wed Mar 17 22:29:31 2021: client 138 has arrived at station 4 
+Wed Mar 17 22:29:31 2021: client 138 is ready to receive the vaccination 
+Wed Mar 17 22:29:31 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:31 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:29:31 2021: client 130 has received the vaccination 
+Wed Mar 17 22:29:31 2021: client 130 leaves the clinic!
+Wed Mar 17 22:29:31 2021: nurse 5 is ready to give shot 2 out of 6
+Wed Mar 17 22:29:31 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:29:32 2021: client 135 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:32 2021: client 148 is registering
+Wed Mar 17 22:29:32 2021: client 147 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:32 2021: client 150 is registering
+Wed Mar 17 22:29:32 2021: client 133 has arrived at station 0 
+Wed Mar 17 22:29:32 2021: client 133 is ready to receive the vaccination 
+Wed Mar 17 22:29:32 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:34 2021: client 137 got assigned to station 3
+Wed Mar 17 22:29:34 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:29:34 2021: client 140 has received the vaccination 
+Wed Mar 17 22:29:34 2021: client 140 leaves the clinic!
+Wed Mar 17 22:29:34 2021: nurse 1 is ready to give shot 3 out of 6
+Wed Mar 17 22:29:34 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:29:35 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:29:35 2021: client 131 has received the vaccination 
+Wed Mar 17 22:29:35 2021: nurse 2 is ready to give shot 4 out of 6
+Wed Mar 17 22:29:35 2021: client 131 leaves the clinic!
+Wed Mar 17 22:29:35 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:29:36 2021: client 141 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:36 2021: client 145 is registering
+Wed Mar 17 22:29:36 2021: client 137 has arrived at station 3 
+Wed Mar 17 22:29:36 2021: client 137 is ready to receive the vaccination 
+Wed Mar 17 22:29:36 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:36 2021: client 136 got assigned to station 7
+Wed Mar 17 22:29:36 2021: client 135 got assigned to station 8
+Wed Mar 17 22:29:36 2021: client 149 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:36 2021: client 142 is registering
+Wed Mar 17 22:29:36 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:29:36 2021: client 138 has received the vaccination 
+Wed Mar 17 22:29:36 2021: nurse 4 is ready to give shot 3 out of 6
+Wed Mar 17 22:29:36 2021: client 138 leaves the clinic!
+Wed Mar 17 22:29:36 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:29:37 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:29:37 2021: client 133 has received the vaccination 
+Wed Mar 17 22:29:37 2021: nurse 0 is ready to give shot 3 out of 6
+Wed Mar 17 22:29:37 2021: client 133 leaves the clinic!
+Wed Mar 17 22:29:37 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:29:37 2021: client 135 has arrived at station 8 
+Wed Mar 17 22:29:37 2021: client 135 is ready to receive the vaccination 
+Wed Mar 17 22:29:37 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:38 2021: client 136 has arrived at station 7 
+Wed Mar 17 22:29:38 2021: client 136 is ready to receive the vaccination 
+Wed Mar 17 22:29:38 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:38 2021: client 148 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:38 2021: client 144 is registering
+Wed Mar 17 22:29:40 2021: client 139 got assigned to station 9
+Wed Mar 17 22:29:40 2021: client 149 got assigned to station 6
+Wed Mar 17 22:29:40 2021: client 145 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:40 2021: client 143 is registering
+Wed Mar 17 22:29:40 2021: client 147 got assigned to station 5
+Wed Mar 17 22:29:41 2021: nurse 3 has given the vaccination to the client
+Wed Mar 17 22:29:41 2021: client 137 has received the vaccination 
+Wed Mar 17 22:29:41 2021: client 137 leaves the clinic!
+Wed Mar 17 22:29:41 2021: nurse 3 is ready to give shot 4 out of 6
+Wed Mar 17 22:29:41 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:29:41 2021: client 149 has arrived at station 6 
+Wed Mar 17 22:29:41 2021: client 149 is ready to receive the vaccination 
+Wed Mar 17 22:29:41 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:41 2021: client 150 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:41 2021: client 146 is registering
+Wed Mar 17 22:29:41 2021: client 141 got assigned to station 1
+Wed Mar 17 22:29:41 2021: client 139 has arrived at station 9 
+Wed Mar 17 22:29:41 2021: client 139 is ready to receive the vaccination 
+Wed Mar 17 22:29:41 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:42 2021: client 147 has arrived at station 5 
+Wed Mar 17 22:29:42 2021: client 147 is ready to receive the vaccination 
+Wed Mar 17 22:29:42 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:42 2021: client 144 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:42 2021: client 152 is registering
+Wed Mar 17 22:29:42 2021: nurse 8 has given the vaccination to the client
+Wed Mar 17 22:29:42 2021: client 135 has received the vaccination 
+Wed Mar 17 22:29:42 2021: client 135 leaves the clinic!
+Wed Mar 17 22:29:42 2021: nurse 8 is ready to give shot 3 out of 6
+Wed Mar 17 22:29:42 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:29:43 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:29:43 2021: client 136 has received the vaccination 
+Wed Mar 17 22:29:43 2021: client 136 leaves the clinic!
+Wed Mar 17 22:29:43 2021: nurse 7 is ready to give shot 3 out of 6
+Wed Mar 17 22:29:43 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:29:43 2021: client 141 has arrived at station 1 
+Wed Mar 17 22:29:43 2021: client 141 is ready to receive the vaccination 
+Wed Mar 17 22:29:43 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:43 2021: client 148 got assigned to station 2
+Wed Mar 17 22:29:44 2021: client 150 got assigned to station 4
+Wed Mar 17 22:29:45 2021: client 148 has arrived at station 2 
+Wed Mar 17 22:29:45 2021: client 148 is ready to receive the vaccination 
+Wed Mar 17 22:29:45 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:45 2021: client 142 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:45 2021: client 156 is registering
+Wed Mar 17 22:29:45 2021: client 143 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:45 2021: client 155 is registering
+Wed Mar 17 22:29:46 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:29:46 2021: client 149 has received the vaccination 
+Wed Mar 17 22:29:46 2021: nurse 6 is ready to give shot 4 out of 6
+Wed Mar 17 22:29:46 2021: client 149 leaves the clinic!
+Wed Mar 17 22:29:46 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:29:46 2021: client 150 has arrived at station 4 
+Wed Mar 17 22:29:46 2021: client 150 is ready to receive the vaccination 
+Wed Mar 17 22:29:46 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:46 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:29:46 2021: client 139 has received the vaccination 
+Wed Mar 17 22:29:46 2021: nurse 9 is ready to give shot 3 out of 6
+Wed Mar 17 22:29:46 2021: client 139 leaves the clinic!
+Wed Mar 17 22:29:46 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:29:47 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:29:47 2021: client 147 has received the vaccination 
+Wed Mar 17 22:29:47 2021: nurse 5 is ready to give shot 3 out of 6
+Wed Mar 17 22:29:47 2021: client 147 leaves the clinic!
+Wed Mar 17 22:29:47 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:29:47 2021: client 152 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:47 2021: client 157 is registering
+Wed Mar 17 22:29:48 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:29:48 2021: client 141 has received the vaccination 
+Wed Mar 17 22:29:48 2021: nurse 1 is ready to give shot 4 out of 6
+Wed Mar 17 22:29:48 2021: client 141 leaves the clinic!
+Wed Mar 17 22:29:48 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:29:49 2021: client 144 got assigned to station 0
+Wed Mar 17 22:29:49 2021: client 143 got assigned to station 3
+Wed Mar 17 22:29:49 2021: client 155 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:49 2021: client 154 is registering
+Wed Mar 17 22:29:50 2021: client 146 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:50 2021: client 158 is registering
+Wed Mar 17 22:29:50 2021: client 145 got assigned to station 8
+Wed Mar 17 22:29:50 2021: client 144 has arrived at station 0 
+Wed Mar 17 22:29:50 2021: client 144 is ready to receive the vaccination 
+Wed Mar 17 22:29:50 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:50 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:29:50 2021: client 148 has received the vaccination 
+Wed Mar 17 22:29:50 2021: client 148 leaves the clinic!
+Wed Mar 17 22:29:50 2021: nurse 2 is ready to give shot 5 out of 6
+Wed Mar 17 22:29:50 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:29:51 2021: client 145 has arrived at station 8 
+Wed Mar 17 22:29:51 2021: client 145 is ready to receive the vaccination 
+Wed Mar 17 22:29:51 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:51 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:29:51 2021: client 150 has received the vaccination 
+Wed Mar 17 22:29:51 2021: nurse 4 is ready to give shot 4 out of 6
+Wed Mar 17 22:29:51 2021: client 150 leaves the clinic!
+Wed Mar 17 22:29:51 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:29:51 2021: client 143 has arrived at station 3 
+Wed Mar 17 22:29:51 2021: client 143 is ready to receive the vaccination 
+Wed Mar 17 22:29:51 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:52 2021: client 142 got assigned to station 7
+Wed Mar 17 22:29:52 2021: client 152 got assigned to station 6
+Wed Mar 17 22:29:53 2021: client 156 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:53 2021: client 151 is registering
+Wed Mar 17 22:29:53 2021: client 142 has arrived at station 7 
+Wed Mar 17 22:29:53 2021: client 142 is ready to receive the vaccination 
+Wed Mar 17 22:29:53 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:54 2021: client 152 has arrived at station 6 
+Wed Mar 17 22:29:54 2021: client 152 is ready to receive the vaccination 
+Wed Mar 17 22:29:54 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:29:54 2021: client 154 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:54 2021: client 153 is registering
+Wed Mar 17 22:29:55 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:29:55 2021: nurse 0 is ready to give shot 4 out of 6
+Wed Mar 17 22:29:55 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:29:55 2021: client 144 has received the vaccination 
+Wed Mar 17 22:29:55 2021: client 144 leaves the clinic!
+Wed Mar 17 22:29:55 2021: client 158 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:55 2021: client 162 is registering
+Wed Mar 17 22:29:55 2021: client 157 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:55 2021: client 159 is registering
+Wed Mar 17 22:29:56 2021: nurse 8 has given the vaccination to the client
+Wed Mar 17 22:29:56 2021: nurse 8 is ready to give shot 4 out of 6
+Wed Mar 17 22:29:56 2021: client 145 has received the vaccination 
+Wed Mar 17 22:29:56 2021: client 145 leaves the clinic!
+Wed Mar 17 22:29:56 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:29:56 2021: nurse 3 has given the vaccination to the client
+Wed Mar 17 22:29:56 2021: client 143 has received the vaccination 
+Wed Mar 17 22:29:56 2021: nurse 3 is ready to give shot 5 out of 6
+Wed Mar 17 22:29:56 2021: client 143 leaves the clinic!
+Wed Mar 17 22:29:56 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:29:57 2021: client 146 got assigned to station 9
+Wed Mar 17 22:29:58 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:29:58 2021: client 142 has received the vaccination 
+Wed Mar 17 22:29:58 2021: client 142 leaves the clinic!
+Wed Mar 17 22:29:58 2021: nurse 7 is ready to give shot 4 out of 6
+Wed Mar 17 22:29:58 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:29:58 2021: client 155 got assigned to station 5
+Wed Mar 17 22:29:58 2021: client 153 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:58 2021: client 160 is registering
+Wed Mar 17 22:29:59 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:29:59 2021: client 152 has received the vaccination 
+Wed Mar 17 22:29:59 2021: nurse 6 is ready to give shot 5 out of 6
+Wed Mar 17 22:29:59 2021: client 152 leaves the clinic!
+Wed Mar 17 22:29:59 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:29:59 2021: client 162 is done registering and will walk to the registration queue
+Wed Mar 17 22:29:59 2021: client 170 is registering
+Wed Mar 17 22:29:59 2021: client 146 has arrived at station 9 
+Wed Mar 17 22:29:59 2021: client 146 is ready to receive the vaccination 
+Wed Mar 17 22:29:59 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:00 2021: client 155 has arrived at station 5 
+Wed Mar 17 22:30:00 2021: client 155 is ready to receive the vaccination 
+Wed Mar 17 22:30:00 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:00 2021: client 151 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:00 2021: client 161 is registering
+Wed Mar 17 22:30:00 2021: client 156 got assigned to station 1
+Wed Mar 17 22:30:01 2021: client 156 has arrived at station 1 
+Wed Mar 17 22:30:01 2021: client 156 is ready to receive the vaccination 
+Wed Mar 17 22:30:01 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:02 2021: client 154 got assigned to station 2
+Wed Mar 17 22:30:02 2021: client 160 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:02 2021: client 164 is registering
+Wed Mar 17 22:30:02 2021: client 153 got assigned to station 4
+Wed Mar 17 22:30:02 2021: client 159 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:02 2021: client 163 is registering
+Wed Mar 17 22:30:03 2021: client 162 got assigned to station 0
+Wed Mar 17 22:30:03 2021: client 153 has arrived at station 4 
+Wed Mar 17 22:30:03 2021: client 153 is ready to receive the vaccination 
+Wed Mar 17 22:30:03 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:03 2021: client 157 got assigned to station 8
+Wed Mar 17 22:30:03 2021: client 154 has arrived at station 2 
+Wed Mar 17 22:30:03 2021: client 154 is ready to receive the vaccination 
+Wed Mar 17 22:30:03 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:04 2021: client 162 has arrived at station 0 
+Wed Mar 17 22:30:04 2021: client 162 is ready to receive the vaccination 
+Wed Mar 17 22:30:04 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:04 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:30:04 2021: client 146 has received the vaccination 
+Wed Mar 17 22:30:04 2021: nurse 9 is ready to give shot 4 out of 6
+Wed Mar 17 22:30:04 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:30:04 2021: client 146 leaves the clinic!
+Wed Mar 17 22:30:04 2021: client 158 got assigned to station 3
+Wed Mar 17 22:30:05 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:30:05 2021: client 155 has received the vaccination 
+Wed Mar 17 22:30:05 2021: nurse 5 is ready to give shot 4 out of 6
+Wed Mar 17 22:30:05 2021: client 155 leaves the clinic!
+Wed Mar 17 22:30:05 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:30:05 2021: client 157 has arrived at station 8 
+Wed Mar 17 22:30:05 2021: client 157 is ready to receive the vaccination 
+Wed Mar 17 22:30:05 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:05 2021: client 170 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:05 2021: client 168 is registering
+Wed Mar 17 22:30:06 2021: client 151 got assigned to station 7
+Wed Mar 17 22:30:06 2021: client 158 has arrived at station 3 
+Wed Mar 17 22:30:06 2021: client 158 is ready to receive the vaccination 
+Wed Mar 17 22:30:06 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:06 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:30:06 2021: nurse 1 is ready to give shot 5 out of 6
+Wed Mar 17 22:30:06 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:30:06 2021: client 156 has received the vaccination 
+Wed Mar 17 22:30:06 2021: client 156 leaves the clinic!
+Wed Mar 17 22:30:08 2021: client 161 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:08 2021: client 166 is registering
+Wed Mar 17 22:30:08 2021: client 151 has arrived at station 7 
+Wed Mar 17 22:30:08 2021: client 151 is ready to receive the vaccination 
+Wed Mar 17 22:30:08 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:08 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:30:08 2021: client 153 has received the vaccination 
+Wed Mar 17 22:30:08 2021: client 153 leaves the clinic!
+Wed Mar 17 22:30:08 2021: nurse 4 is ready to give shot 5 out of 6
+Wed Mar 17 22:30:08 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:30:08 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:30:08 2021: client 154 has received the vaccination 
+Wed Mar 17 22:30:08 2021: client 154 leaves the clinic!
+Wed Mar 17 22:30:08 2021: nurse 2 is ready to give shot 6 out of 6
+Wed Mar 17 22:30:08 2021: nurse 2 waiting for client to arrive
+Wed Mar 17 22:30:09 2021: client 168 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:09 2021: client 169 is registering
+Wed Mar 17 22:30:09 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:30:09 2021: client 162 has received the vaccination 
+Wed Mar 17 22:30:09 2021: client 162 leaves the clinic!
+Wed Mar 17 22:30:09 2021: nurse 0 is ready to give shot 5 out of 6
+Wed Mar 17 22:30:09 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:30:10 2021: nurse 8 has given the vaccination to the client
+Wed Mar 17 22:30:10 2021: client 157 has received the vaccination 
+Wed Mar 17 22:30:10 2021: client 157 leaves the clinic!
+Wed Mar 17 22:30:10 2021: nurse 8 is ready to give shot 5 out of 6
+Wed Mar 17 22:30:10 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:30:11 2021: client 163 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:11 2021: client 178 is registering
+Wed Mar 17 22:30:11 2021: client 164 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:11 2021: client 165 is registering
+Wed Mar 17 22:30:11 2021: nurse 3 has given the vaccination to the client
+Wed Mar 17 22:30:11 2021: nurse 3 is ready to give shot 6 out of 6
+Wed Mar 17 22:30:11 2021: client 158 has received the vaccination 
+Wed Mar 17 22:30:11 2021: nurse 3 waiting for client to arrive
+Wed Mar 17 22:30:11 2021: client 158 leaves the clinic!
+Wed Mar 17 22:30:12 2021: client 160 got assigned to station 6
+Wed Mar 17 22:30:12 2021: client 159 got assigned to station 9
+Wed Mar 17 22:30:13 2021: client 168 got assigned to station 5
+Wed Mar 17 22:30:13 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:30:13 2021: nurse 7 is ready to give shot 5 out of 6
+Wed Mar 17 22:30:13 2021: client 151 has received the vaccination 
+Wed Mar 17 22:30:13 2021: client 151 leaves the clinic!
+Wed Mar 17 22:30:13 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:30:13 2021: client 160 has arrived at station 6 
+Wed Mar 17 22:30:13 2021: client 160 is ready to receive the vaccination 
+Wed Mar 17 22:30:13 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:14 2021: client 159 has arrived at station 9 
+Wed Mar 17 22:30:14 2021: client 159 is ready to receive the vaccination 
+Wed Mar 17 22:30:14 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:14 2021: client 168 has arrived at station 5 
+Wed Mar 17 22:30:14 2021: client 168 is ready to receive the vaccination 
+Wed Mar 17 22:30:14 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:15 2021: client 170 got assigned to station 1
+Wed Mar 17 22:30:15 2021: client 166 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:15 2021: client 167 is registering
+Wed Mar 17 22:30:16 2021: client 161 got assigned to station 4
+Wed Mar 17 22:30:17 2021: client 170 has arrived at station 1 
+Wed Mar 17 22:30:17 2021: client 170 is ready to receive the vaccination 
+Wed Mar 17 22:30:17 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:17 2021: client 178 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:17 2021: client 171 is registering
+Wed Mar 17 22:30:17 2021: client 161 has arrived at station 4 
+Wed Mar 17 22:30:17 2021: client 161 is ready to receive the vaccination 
+Wed Mar 17 22:30:17 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:17 2021: client 164 got assigned to station 2
+Wed Mar 17 22:30:18 2021: client 163 got assigned to station 0
+Wed Mar 17 22:30:18 2021: client 164 has arrived at station 2 
+Wed Mar 17 22:30:18 2021: client 164 is ready to receive the vaccination 
+Wed Mar 17 22:30:18 2021: nurse 2 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:18 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:30:18 2021: client 160 has received the vaccination 
+Wed Mar 17 22:30:18 2021: nurse 6 is ready to give shot 6 out of 6
+Wed Mar 17 22:30:18 2021: client 160 leaves the clinic!
+Wed Mar 17 22:30:18 2021: nurse 6 waiting for client to arrive
+Wed Mar 17 22:30:19 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:30:19 2021: client 159 has received the vaccination 
+Wed Mar 17 22:30:19 2021: client 159 leaves the clinic!
+Wed Mar 17 22:30:19 2021: nurse 9 is ready to give shot 5 out of 6
+Wed Mar 17 22:30:19 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:30:19 2021: client 169 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:19 2021: client 172 is registering
+Wed Mar 17 22:30:19 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:30:19 2021: nurse 5 is ready to give shot 5 out of 6
+Wed Mar 17 22:30:19 2021: client 168 has received the vaccination 
+Wed Mar 17 22:30:19 2021: client 168 leaves the clinic!
+Wed Mar 17 22:30:19 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:30:19 2021: client 163 has arrived at station 0 
+Wed Mar 17 22:30:19 2021: client 163 is ready to receive the vaccination 
+Wed Mar 17 22:30:19 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:20 2021: client 165 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:20 2021: client 179 is registering
+Wed Mar 17 22:30:20 2021: client 167 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:20 2021: client 174 is registering
+Wed Mar 17 22:30:21 2021: client 171 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:21 2021: client 177 is registering
+Wed Mar 17 22:30:22 2021: client 178 got assigned to station 8
+Wed Mar 17 22:30:22 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:30:22 2021: nurse 1 is ready to give shot 6 out of 6
+Wed Mar 17 22:30:22 2021: client 170 has received the vaccination 
+Wed Mar 17 22:30:22 2021: nurse 1 waiting for client to arrive
+Wed Mar 17 22:30:22 2021: client 170 leaves the clinic!
+Wed Mar 17 22:30:22 2021: client 166 got assigned to station 3
+Wed Mar 17 22:30:22 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:30:22 2021: client 161 has received the vaccination 
+Wed Mar 17 22:30:22 2021: nurse 4 is ready to give shot 6 out of 6
+Wed Mar 17 22:30:22 2021: client 161 leaves the clinic!
+Wed Mar 17 22:30:22 2021: nurse 4 waiting for client to arrive
+Wed Mar 17 22:30:23 2021: client 178 has arrived at station 8 
+Wed Mar 17 22:30:23 2021: client 178 is ready to receive the vaccination 
+Wed Mar 17 22:30:23 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:23 2021: client 166 has arrived at station 3 
+Wed Mar 17 22:30:23 2021: client 166 is ready to receive the vaccination 
+Wed Mar 17 22:30:23 2021: nurse 3 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:23 2021: nurse 2 has given the vaccination to the client
+Wed Mar 17 22:30:23 2021: client 164 has received the vaccination 
+Wed Mar 17 22:30:23 2021: nurse 2 is walking to get a vial
+Wed Mar 17 22:30:23 2021: client 164 leaves the clinic!
+Wed Mar 17 22:30:24 2021: client 171 got assigned to station 7
+Wed Mar 17 22:30:24 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:30:24 2021: nurse 0 is ready to give shot 6 out of 6
+Wed Mar 17 22:30:24 2021: nurse 0 waiting for client to arrive
+Wed Mar 17 22:30:24 2021: client 163 has received the vaccination 
+Wed Mar 17 22:30:24 2021: client 163 leaves the clinic!
+Wed Mar 17 22:30:25 2021: client 167 got assigned to station 6
+Wed Mar 17 22:30:25 2021: client 172 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:25 2021: client 173 is registering
+Wed Mar 17 22:30:25 2021: client 169 got assigned to station 9
+Wed Mar 17 22:30:26 2021: client 171 has arrived at station 7 
+Wed Mar 17 22:30:26 2021: client 171 is ready to receive the vaccination 
+Wed Mar 17 22:30:26 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:26 2021: client 174 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:26 2021: client 175 is registering
+Wed Mar 17 22:30:26 2021: client 179 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:26 2021: client 176 is registering
+Wed Mar 17 22:30:26 2021: nurse 2 is done
+Wed Mar 17 22:30:27 2021: client 167 has arrived at station 6 
+Wed Mar 17 22:30:27 2021: client 167 is ready to receive the vaccination 
+Wed Mar 17 22:30:27 2021: nurse 6 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:27 2021: client 169 has arrived at station 9 
+Wed Mar 17 22:30:27 2021: client 169 is ready to receive the vaccination 
+Wed Mar 17 22:30:27 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:27 2021: client 165 got assigned to station 5
+Wed Mar 17 22:30:27 2021: client 177 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:28 2021: nurse 8 has given the vaccination to the client
+Wed Mar 17 22:30:28 2021: client 178 has received the vaccination 
+Wed Mar 17 22:30:28 2021: nurse 8 is ready to give shot 6 out of 6
+Wed Mar 17 22:30:28 2021: client 178 leaves the clinic!
+Wed Mar 17 22:30:28 2021: nurse 8 waiting for client to arrive
+Wed Mar 17 22:30:28 2021: nurse 3 has given the vaccination to the client
+Wed Mar 17 22:30:28 2021: client 166 has received the vaccination 
+Wed Mar 17 22:30:28 2021: client 166 leaves the clinic!
+Wed Mar 17 22:30:28 2021: nurse 3 is walking to get a vial
+Wed Mar 17 22:30:29 2021: client 165 has arrived at station 5 
+Wed Mar 17 22:30:29 2021: client 165 is ready to receive the vaccination 
+Wed Mar 17 22:30:29 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:30 2021: nurse 3 is done
+Wed Mar 17 22:30:30 2021: client 177 got assigned to station 1
+Wed Mar 17 22:30:31 2021: client 173 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:31 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:30:31 2021: client 171 has received the vaccination 
+Wed Mar 17 22:30:31 2021: client 171 leaves the clinic!
+Wed Mar 17 22:30:31 2021: nurse 7 is ready to give shot 6 out of 6
+Wed Mar 17 22:30:31 2021: nurse 7 waiting for client to arrive
+Wed Mar 17 22:30:31 2021: client 172 got assigned to station 4
+Wed Mar 17 22:30:31 2021: client 177 has arrived at station 1 
+Wed Mar 17 22:30:31 2021: client 177 is ready to receive the vaccination 
+Wed Mar 17 22:30:31 2021: nurse 1 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:32 2021: nurse 6 has given the vaccination to the client
+Wed Mar 17 22:30:32 2021: client 167 has received the vaccination 
+Wed Mar 17 22:30:32 2021: client 167 leaves the clinic!
+Wed Mar 17 22:30:32 2021: nurse 6 is walking to get a vial
+Wed Mar 17 22:30:32 2021: client 176 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:32 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:30:32 2021: nurse 9 is ready to give shot 6 out of 6
+Wed Mar 17 22:30:32 2021: nurse 9 waiting for client to arrive
+Wed Mar 17 22:30:32 2021: client 169 has received the vaccination 
+Wed Mar 17 22:30:32 2021: client 169 leaves the clinic!
+Wed Mar 17 22:30:32 2021: client 172 has arrived at station 4 
+Wed Mar 17 22:30:32 2021: client 172 is ready to receive the vaccination 
+Wed Mar 17 22:30:32 2021: nurse 4 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:32 2021: client 175 is done registering and will walk to the registration queue
+Wed Mar 17 22:30:33 2021: nurse 6 is done
+Wed Mar 17 22:30:34 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:30:34 2021: client 165 has received the vaccination 
+Wed Mar 17 22:30:34 2021: client 165 leaves the clinic!
+Wed Mar 17 22:30:34 2021: nurse 5 is ready to give shot 6 out of 6
+Wed Mar 17 22:30:34 2021: nurse 5 waiting for client to arrive
+Wed Mar 17 22:30:34 2021: client 174 got assigned to station 0
+Wed Mar 17 22:30:36 2021: client 174 has arrived at station 0 
+Wed Mar 17 22:30:36 2021: client 174 is ready to receive the vaccination 
+Wed Mar 17 22:30:36 2021: nurse 0 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:36 2021: client 179 got assigned to station 8
+Wed Mar 17 22:30:36 2021: client 173 got assigned to station 7
+Wed Mar 17 22:30:36 2021: nurse 1 has given the vaccination to the client
+Wed Mar 17 22:30:36 2021: client 177 has received the vaccination 
+Wed Mar 17 22:30:36 2021: nurse 1 is walking to get a vial
+Wed Mar 17 22:30:36 2021: client 177 leaves the clinic!
+Wed Mar 17 22:30:37 2021: nurse 4 has given the vaccination to the client
+Wed Mar 17 22:30:37 2021: client 172 has received the vaccination 
+Wed Mar 17 22:30:37 2021: client 172 leaves the clinic!
+Wed Mar 17 22:30:37 2021: nurse 4 is walking to get a vial
+Wed Mar 17 22:30:37 2021: client 179 has arrived at station 8 
+Wed Mar 17 22:30:37 2021: client 179 is ready to receive the vaccination 
+Wed Mar 17 22:30:37 2021: nurse 8 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:37 2021: client 176 got assigned to station 9
+Wed Mar 17 22:30:38 2021: client 173 has arrived at station 7 
+Wed Mar 17 22:30:38 2021: client 173 is ready to receive the vaccination 
+Wed Mar 17 22:30:38 2021: nurse 7 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:39 2021: nurse 4 is done
+Wed Mar 17 22:30:39 2021: nurse 1 is done
+Wed Mar 17 22:30:39 2021: client 176 has arrived at station 9 
+Wed Mar 17 22:30:39 2021: client 176 is ready to receive the vaccination 
+Wed Mar 17 22:30:39 2021: nurse 9 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:40 2021: client 175 got assigned to station 5
+Wed Mar 17 22:30:41 2021: nurse 0 has given the vaccination to the client
+Wed Mar 17 22:30:41 2021: client 174 has received the vaccination 
+Wed Mar 17 22:30:41 2021: client 174 leaves the clinic!
+Wed Mar 17 22:30:41 2021: nurse 0 is walking to get a vial
+Wed Mar 17 22:30:42 2021: client 175 has arrived at station 5 
+Wed Mar 17 22:30:42 2021: client 175 is ready to receive the vaccination 
+Wed Mar 17 22:30:42 2021: nurse 5 sees that the client is ready for the vaccination
+Wed Mar 17 22:30:42 2021: nurse 8 has given the vaccination to the client
+Wed Mar 17 22:30:42 2021: client 179 has received the vaccination 
+Wed Mar 17 22:30:42 2021: client 179 leaves the clinic!
+Wed Mar 17 22:30:42 2021: nurse 8 is walking to get a vial
+Wed Mar 17 22:30:43 2021: nurse 7 has given the vaccination to the client
+Wed Mar 17 22:30:43 2021: client 173 has received the vaccination 
+Wed Mar 17 22:30:43 2021: client 173 leaves the clinic!
+Wed Mar 17 22:30:43 2021: nurse 7 is walking to get a vial
+Wed Mar 17 22:30:43 2021: nurse 0 is done
+Wed Mar 17 22:30:44 2021: nurse 8 is done
+Wed Mar 17 22:30:44 2021: nurse 9 has given the vaccination to the client
+Wed Mar 17 22:30:44 2021: client 176 has received the vaccination 
+Wed Mar 17 22:30:44 2021: client 176 leaves the clinic!
+Wed Mar 17 22:30:44 2021: nurse 9 is walking to get a vial
+Wed Mar 17 22:30:45 2021: nurse 7 is done
+Wed Mar 17 22:30:46 2021: nurse 9 is done
+Wed Mar 17 22:30:47 2021: nurse 5 has given the vaccination to the client
+Wed Mar 17 22:30:47 2021: client 175 has received the vaccination 
+Wed Mar 17 22:30:47 2021: client 175 leaves the clinic!
+Wed Mar 17 22:30:47 2021: nurse 5 is walking to get a vial
+Wed Mar 17 22:30:48 2021: nurse 5 is done
